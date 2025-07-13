@@ -2,7 +2,7 @@
 <h3 align="center">AI Analyst | App Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New](https://cdn.pixabay.com/photo/2017/08/06/11/51/artificial-intelligence-2598290_1280.jpg)" alt="Typing SVG" />
 </p>
 
 ---
