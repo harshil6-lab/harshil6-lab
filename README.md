@@ -1,59 +1,57 @@
-<h1 align="center">Hi 👋, I'm Harshil</h1>
-<h3 align="center">A passionate Machine Learner and full-stack web developer</h3>
+<h1 align="center">Hi 👋, I'm Harshil Kalsariya</h1>
+<h3 align="center">AI Analyst | App Developer | Tech Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **Full Stack Web Devlopment**
-
-- 👯 I’m looking to collaborate on **open source web projects**
-
-- 💬 Ask me about **C++, OOPs, JavaScript, React, Node.js**
-
-- 📫 How to reach me **harshilkalsariya28@gmail.com**
-
-- ⚡ Fun fact **I love debugging more than coding sometimes 😅**
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 👨‍🎓 About Me
+- 🎓 I’m currently pursuing my studies at **CHARUSAT University**
+- 🤖 I’m passionate about **AI Analytics** and building meaningful applications
+- 📱 Exploring **App Development** with modern tools like **Flutter**, **React Native**, and **Android Studio**
+- 💬 Ask me about anything related to **Python, ML**, or **App Development**
+- 📫 Email me at: **harshilkalsariya28@gmail.com**
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshil-kalsariya-629651318)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight" width="48%" />
+---
+
+### 🛠️ Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,androidstudio,flutter,dart,html,css,js,react,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 Top Languages:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourGitHubUsername&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilkalsariya&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilkalsariya&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
+### 🌱 Currently Learning
+- Deep Learning with TensorFlow & PyTorch
+- Full Stack App Development (MERN / Firebase)
+- Deployment & DevOps (Docker, CI/CD)
 
-<p align="left">
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/harshil-kalsariya-629651318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2Fgithub.com%2Fharshil6-lab)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" /></a>
-  <a href="harshilkalsariya28@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="30" /></a>
+---
+
+### ✨ Fun Fact
+> 🌌 I code like an astronaut: exploring new tech universes one step at a time.
+
+---
+
+### 📫 Let's Connect!
+<p>
+  <a href="mailto:harshilkalsariya28@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harshil-kalsariya-629651318/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
-> ✨ _Thanks for visiting my profile! Have a great day 😊_
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e7bf6,100:a355f0&height=100&section=footer"/>
+</p>
