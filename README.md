@@ -2,17 +2,12 @@
 <h3 align="center">AI Analyst | App Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New](https://cdn.pixabay.com/photo/2017/08/06/11/51/artificial-intelligence-2598290_1280.jpg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
-
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/06/11/51/artificial-intelligence-2598290_1280.jpg" alt="AI Machine" width="60%" style="border-radius: 10px;" />
-</p>
-
 - 🎓 I’m currently pursuing my studies at **CHARUSAT University**
 - 🤖 I’m passionate about **AI Analytics** and building meaningful applications
 - 📱 Exploring **App Development** with modern tools like **Flutter**, **React Native**, and **Android Studio**
@@ -38,8 +33,8 @@
 ---
 
 ### 🌱 Currently Learning
-- Deep Learning with TensorFlow & PyTorch
-- Full Stack App Development (MERN / Firebase)
+- Deep Learning with TensorFlow & PyTorch  
+- Full Stack App Development (MERN / Firebase)  
 - Deployment & DevOps (Docker, CI/CD)
 
 ---
