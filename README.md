@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Kalsariya</h1>
-<h3 align="center">AI Analyst | App Developer | Tech Enthusiast</h3>
+<h3 align="center">Full-Stack Software Engineer with AI & Cloud Skills</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New" alt="Typing SVG" />
