@@ -67,9 +67,7 @@ I believe in <b>clarity, consistency, and long-term growth</b>.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/harshil6-lab/harshil6-lab/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/harshil6-lab/harshil6-lab/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
