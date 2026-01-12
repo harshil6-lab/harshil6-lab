@@ -1,57 +1,73 @@
-<h1 align="center">Hi 👋, I'm Harshil Kalsariya</h1>
-<h3 align="center">Full-Stack Software Engineer with AI & Cloud Skills</h3>
+# Hi 👋, I'm Harshil Kalsariya
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Student+at+CHARUSAT+University;Aspiring+AI+Engineer;Passionate+App+Developer;Always+Learning+Something+New" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍🎓 About Me
-- 🎓 I’m currently pursuing my studies at **CHARUSAT University**
-- 🤖 I’m passionate about **AI Analytics** and building meaningful applications
-- 📱 Exploring **App Development** with modern tools like **Flutter**, **React Native**, and **Android Studio**
-- 💬 Ask me about anything related to **Python, ML**, or **App Development**
-- 📫 Email me at: **harshilkalsariya28@gmail.com**
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/harshil-kalsariya-629651318)
+🎓 B.Tech Computer Engineering student at **CHARUSAT University**  
+💻 Aspiring **Backend & Automation Engineer**  
+🚀 Building strong foundations in Python, systems, and real-world software engineering
 
 ---
 
-### 🛠️ Technologies & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,java,androidstudio,flutter,dart,html,css,js,react,git,github,vscode" />
-</p>
+## 👨‍💻 About Me
+
+- I am currently focusing on **core software engineering skills**, not shortcuts
+- Interested in **backend development, automation, and system design**
+- Learning how real production systems work: APIs, logging, error handling, data flow
+- I believe in **clean code, consistency, and long-term growth**
+- Actively improving my **English communication** and technical clarity
+
+📧 Email: **harshilkalsariya28@gmail.com**  
+🔗 LinkedIn: *(add when ready — optional)*
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&theme=radical" height="165" />
-</p>
+## 🛠️ Tech Stack (Current & Practical)
+
+**Languages**
+- Python
+- C / C++
+
+**Core Concepts**
+- Data Structures & Algorithms
+- Backend Logic
+- Error Handling & Logging
+- File Handling & JSON
+- API Fundamentals
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Linux basics
 
 ---
 
-### 🌱 Currently Learning
-- Deep Learning with TensorFlow & PyTorch  
-- Full Stack App Development (MERN / Firebase)  
-- Deployment & DevOps (Docker, CI/CD)
+## 📌 What I’m Currently Doing
+
+- Strengthening **Python for backend & automation**
+- Practicing **DSA** alongside college syllabus
+- Building **small but real system-style projects**
+- Maintaining **daily GitHub commits** with meaningful messages
 
 ---
 
-### ✨ Fun Fact
-> 🌌 I code like an astronaut: exploring new tech universes one step at a time.
+## 📂 How I Use GitHub
+
+- Public repositories show **serious, explainable projects**
+- Practice and experiments are **archived or private**
+- Every public repo has:
+  - Clear README
+  - Clean commit history
+  - Focus on logic, not UI
 
 ---
 
-### 📫 Let's Connect!
-<p>
-  <a href="mailto:harshilkalsariya28@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harshil-kalsariya-629651318/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## 🎯 Long-Term Goals
+
+- Become a **reliable backend / automation engineer**
+- Build systems that are **robust, maintainable, and AI-assisted**
+- Grow towards **high-impact roles and product building**
+- Explore opportunities in **Europe (Switzerland/Germany)** in the future
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3e7bf6,100:a355f0&height=100&section=footer"/>
-</p>
+## ✨ Personal Principle
+
+> *“I don’t rush to look smart. I focus on becoming solid.”*
