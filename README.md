@@ -56,21 +56,6 @@ I believe in <b>clarity, consistency, and long-term growth</b>.
 
 ---
 
-## 🎯 Long-Term Goals
-
-- Become a reliable **Backend / Automation Engineer**
-- Build **robust, production-style systems**
-- Work on high-impact products
-- Explore opportunities in **Europe (Switzerland / Germany)**
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/harshil6-lab/harshil6-lab/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">
 <i>“I don’t rush to look smart. I focus on becoming solid.”</i>
 </p>
