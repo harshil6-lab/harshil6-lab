@@ -46,16 +46,6 @@ I believe in <b>clarity, consistency, and long-term growth</b>.
 
 ---
 
-## 📂 How I Use GitHub
-
-- ✅ Serious projects only in public repos
-- ✅ Practice repos archived or private
-- ✅ Clean commit messages
-- ✅ Every repo has a proper README
-- ❌ No junk, no fake projects
-
----
-
 <p align="center">
 <i>“I don’t rush to look smart. I focus on becoming solid.”</i>
 </p>
