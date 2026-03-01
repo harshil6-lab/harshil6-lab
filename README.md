@@ -46,12 +46,14 @@ Systems over surface.
 - **C / C++** → Intermediate (DSA / DAA oriented)
 - **Python 3** → Actively strengthening
 - **SQL (SQLPlus)** → Beginner
+- **PostgreSQL** → Beginner
 
 ### Backend Stack
 - FastAPI (Learning & experimenting)
 - API Integration (Intermediate understanding)
 - Firebase (Frequent usage)
 - REST architecture basics
+- n8n Automation (Frequent usage)
 
 ### Systems
 - Linux basics
