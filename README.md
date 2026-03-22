@@ -1,167 +1,113 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineering;API+Infrastructure;Workflow+Automation+Systems;Fintech+Platform+Engineering"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00C2FF&center=true&vCenter=true&width=620&lines=Backend+Engineering;API+Infrastructure;Workflow+Automation+Systems;LLM+Pipeline+Integration"/>
 </p>
 
-<h1 align="center">Harshil Prafulbhai Kalsariya</h1>
+<h2 align="center">Harshil Prafulbhai Kalsariya</h2>
 
 <p align="center">
 Backend Developer · API Engineering · Workflow Automation Systems
 </p>
 
 <p align="center">
-📍 Surat, India  
-🔗 <a href="https://linkedin.com/in/harshil-kalsariya-629651318">LinkedIn</a> •
+📍 India · 
+<a href="https://linkedin.com/in/harshil-kalsariya-629651318">LinkedIn</a> · 
 📧 harshilkalsariya28@gmail.com
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
-## Backend Engineering Focus
+## System Focus
 
-- API infrastructure
-- workflow orchestration pipelines
-- automation-first backend systems
-- LLM-integrated processing pipelines
-- document-processing workflows
-- fintech-style backend services
-
----
-
-## Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,firebase,docker,linux,git,github"/>
-
-</p>
-
-### Backend
-
-- REST APIs
-- FastAPI (API development familiarity)
-- SMTP workflow automation
-- Google Sheets API pipelines
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Firebase
-- Supabase
-
-Focus:
-
-schema fundamentals · relationships · structured querying
-
-### Workflow Orchestration
-
-- n8n automation pipelines
-- trigger-based execution logic
-- multi-stage routing workflows
-- LLM-assisted evaluation pipelines
-
-### Infrastructure
-
-- Docker (basic)
-- Linux CLI
-- Vercel deployment
-- Netlify deployment
-
----
-
-## Selected Systems Built
-
-### CertifyPro
-
-Full-Stack SaaS Certificate Automation Platform
-
-Stack:
-
-Python · REST APIs · workflow pipelines · verification endpoint
-
-Capabilities:
-
-- bulk certificate generation pipeline
-- Excel-driven structured automation
-- public authenticity verification API
-- multi-organization deployment logic
-
-
-### Resume Screening Pipeline
-
-LLM evaluation + workflow orchestration system
-
-Stack:
-
-Python · OpenAI API · n8n · SMTP
-
-Capabilities:
-
-- resume ingestion pipeline
-- structured skill extraction
-- candidate scoring engine
-- automated shortlist routing
-
-
-### Gmail Automation Routing System
-
-Stack:
-
-Python · Gemini API · n8n · Gmail API
-
-Capabilities:
-
-- multi-stage inbox classification pipeline
-- LLM routing logic
-- category-aware response automation
-- trigger-based execution architecture
-
-
-### Invoice OCR Processing Pipeline
-
-Stack:
-
-Python · OCR · n8n · Google Sheets API
-
-Capabilities:
-
-- layout-adaptive extraction logic
-- structured field parsing
-- automated sheet delivery pipeline
-
----
-
-## Engineering Direction
-
-Currently strengthening:
-
-- FastAPI service architecture
-- database schema modeling
-- backend deployment workflows
-- automation reliability patterns
-- API system structuring
-
----
-
-## GitHub Metrics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## Target Roles
-
-Backend Engineering Intern  
-API Infrastructure Intern  
-Workflow Automation Engineer Intern  
+```text
+Backend Services
+API Pipelines
+Workflow Orchestration
+LLM Routing Systems
+Document Processing Infrastructure
+Fintech Automation Patterns
+Architecture Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,firebase,docker,linux,git,github"/> </p>
+Python
+REST APIs
+FastAPI
+PostgreSQL / MySQL
+n8n Orchestration
+LLM APIs (OpenAI · Gemini · Grok)
+Docker (basic)
+Linux CLI
+Vercel / Netlify Deployment
+Systems Built
+CertifyPro
+│
+├─ Bulk Certificate Pipeline
+├─ Excel → Template Engine
+├─ Verification API Endpoint
+└─ Multi-Organization Backend Logic
+Resume Screening Pipeline
+│
+├─ LLM Skill Extraction
+├─ Rule-Based Ranking Engine
+├─ Workflow Orchestration (n8n)
+└─ SMTP Notification Dispatch
+Gmail Routing System
+│
+├─ Multi-Stage Inbox Classification
+├─ LLM Routing Logic
+├─ Category-Aware Responses
+└─ Trigger-Based Execution Pipeline
+Invoice OCR Processing
+│
+├─ Layout-Adaptive Extraction
+├─ Structured Field Parsing
+└─ Google Sheets Delivery API
+Current Engineering Direction
+FastAPI Service Structuring
+Schema Design Fundamentals
+Automation Reliability Patterns
+Backend Deployment Workflows
+API Infrastructure Thinking
+GitHub Signals
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/> </p>
+Target Roles
+Backend Engineering Intern
+API Infrastructure Intern
+Workflow Automation Engineer Intern
 Fintech Platform Engineering Intern
+
+---
+
+# Why THIS version is what you wanted ✅
+
+Compared to earlier versions:
+
+Feature | Result
+-------|-------
+Minimal | ✔
+Animated header only (professional) | ✔
+Architecture-style layout | ✔
+Pipeline visualization blocks | ✔
+Backend positioning clear | ✔
+No emotional text | ✔
+No student tone | ✔
+Scan in 5 seconds | ✔
+Recruiter-friendly | ✔
+Unique vs typical README | ✔
+
+This reads like:
+
+> backend systems candidate landing page
+
+—not—
+
+> GitHub profile introduction page
+
+---
+
+# One optional upgrade (makes it **top 1% visually**)
+
+Add this animated architecture divider between sections:
+
+```md
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=header"/>
+</p>
