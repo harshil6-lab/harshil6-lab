@@ -1,13 +1,17 @@
-<h1 align="center">
-Harshil Prafulbhai Kalsariya
-</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineering;API+Infrastructure;Workflow+Automation+Systems;Fintech+Platform+Engineering"/>
+</p>
+
+<h1 align="center">Harshil Prafulbhai Kalsariya</h1>
 
 <p align="center">
 Backend Developer · API Engineering · Workflow Automation Systems
 </p>
 
 <p align="center">
-Surat, Gujarat, India
+📍 Surat, India  
+🔗 <a href="https://linkedin.com/in/harshil-kalsariya-629651318">LinkedIn</a> •
+📧 harshilkalsariya28@gmail.com
 </p>
 
 <p align="center">
@@ -16,204 +20,148 @@ Surat, Gujarat, India
 
 ---
 
-## Engineering Profile
+## Backend Engineering Focus
 
-Backend-focused engineering student building automation infrastructure, API-driven workflow systems, and LLM-integrated processing pipelines.
-
-Primary interest areas:
-
-- Backend services
-- Workflow orchestration systems
 - API infrastructure
-- Fintech platform engineering
-- Document-processing pipelines
-
-GitHub repositories demonstrate:
-
-- workflow automation pipelines
-- REST API integrations
-- OCR-based structured extraction systems
-- LLM routing architectures
-- SaaS-style backend configuration logic
+- workflow orchestration pipelines
+- automation-first backend systems
+- LLM-integrated processing pipelines
+- document-processing workflows
+- fintech-style backend services
 
 ---
 
-## Core Technology Stack
+## Tech Stack
 
-<p align="left">
+<p>
+
 <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,firebase,docker,linux,git,github"/>
+
 </p>
 
-### Languages
+### Backend
 
-Python  
-C / C++
-
-### Backend & APIs
-
-REST APIs  
-FastAPI (API development familiarity)  
-SMTP automation pipelines
+- REST APIs
+- FastAPI (API development familiarity)
+- SMTP workflow automation
+- Google Sheets API pipelines
 
 ### Databases
 
-PostgreSQL  
-MySQL  
-Firebase  
-Supabase  
+- PostgreSQL
+- MySQL
+- Firebase
+- Supabase
 
 Focus:
 
-relational schema fundamentals  
-table relationships  
-query structure awareness
+schema fundamentals · relationships · structured querying
 
 ### Workflow Orchestration
 
-n8n
+- n8n automation pipelines
+- trigger-based execution logic
+- multi-stage routing workflows
+- LLM-assisted evaluation pipelines
 
-Experience includes:
+### Infrastructure
 
-multi-stage pipelines  
-trigger-based execution  
-LLM routing workflows  
-automation-first backend logic
-
-### AI API Integration
-
-OpenAI API  
-Gemini API  
-Grok API
-
-Used for:
-
-classification pipelines  
-document parsing  
-response routing systems  
-evaluation workflows
-
-### Infrastructure & Deployment
-
-Docker (basic container usage)  
-Linux CLI (environment setup + execution workflows)  
-Vercel deployment  
-Netlify deployment
+- Docker (basic)
+- Linux CLI
+- Vercel deployment
+- Netlify deployment
 
 ---
 
-## Selected Engineering Work
+## Selected Systems Built
 
 ### CertifyPro
 
-Full-Stack SaaS Certificate Automation & Verification Platform  
-Institutional deployment-oriented backend system
+Full-Stack SaaS Certificate Automation Platform
 
-Key capabilities:
+Stack:
 
-- Excel-to-certificate structured pipeline
-- public verification API endpoint
-- multi-organization backend configuration
-- automated issuance workflows
+Python · REST APIs · workflow pipelines · verification endpoint
 
-Focus area:
+Capabilities:
 
-automation infrastructure for digital credential delivery systems
+- bulk certificate generation pipeline
+- Excel-driven structured automation
+- public authenticity verification API
+- multi-organization deployment logic
 
----
 
-### AI Resume Screening Pipeline
+### Resume Screening Pipeline
 
-LLM evaluation pipeline + workflow orchestration system
+LLM evaluation + workflow orchestration system
 
-Implements:
+Stack:
 
-resume ingestion pipeline  
-structured skill extraction  
-candidate scoring logic  
-automated shortlist generation  
-SMTP notification workflows
+Python · OpenAI API · n8n · SMTP
 
-Result:
+Capabilities:
 
-reduces manual screening effort through configurable evaluation pipelines
+- resume ingestion pipeline
+- structured skill extraction
+- candidate scoring engine
+- automated shortlist routing
 
----
 
-### Gmail Workflow Automation System
+### Gmail Automation Routing System
 
-Multi-stage inbox classification & routing pipeline
+Stack:
 
-Features:
+Python · Gemini API · n8n · Gmail API
 
-LLM routing logic  
-category-aware classification  
-automated response generation  
-trigger-based orchestration execution  
+Capabilities:
 
-Designed for:
+- multi-stage inbox classification pipeline
+- LLM routing logic
+- category-aware response automation
+- trigger-based execution architecture
 
-business communication automation workflows
 
----
+### Invoice OCR Processing Pipeline
 
-### Invoice Processing Pipeline
+Stack:
 
-OCR-based structured data extraction system
+Python · OCR · n8n · Google Sheets API
 
-Pipeline capabilities:
+Capabilities:
 
-layout-adaptive parsing  
-field-level extraction logic  
-Google Sheets API delivery  
-workflow-triggered processing execution
-
-Purpose:
-
-replace manual invoice transcription workflows
-
----
-
-## Engineering Focus Areas (Current)
-
-Actively strengthening:
-
-FastAPI backend architecture  
-API service structuring  
-workflow orchestration reliability  
-database schema modeling fundamentals  
-automation-first backend system design
-
----
-
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Contact
-
-<p align="left">
-
-Email  
-harshilkalsariya28@gmail.com
-
-LinkedIn  
-linkedin.com/in/harshil-kalsariya-629651318
-
-</p>
+- layout-adaptive extraction logic
+- structured field parsing
+- automated sheet delivery pipeline
 
 ---
 
 ## Engineering Direction
 
-Backend engineering  
-workflow automation infrastructure  
-API integration systems  
-fintech platform tooling
+Currently strengthening:
+
+- FastAPI service architecture
+- database schema modeling
+- backend deployment workflows
+- automation reliability patterns
+- API system structuring
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Target Roles
+
+Backend Engineering Intern  
+API Infrastructure Intern  
+Workflow Automation Engineer Intern  
+Fintech Platform Engineering Intern
