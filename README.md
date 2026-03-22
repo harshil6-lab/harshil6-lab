@@ -1,115 +1,219 @@
 <h1 align="center">
-  Hi 👋 I'm Harshil Kalsariya
+Harshil Prafulbhai Kalsariya
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+in+Progress;Automation+Engineer+in+Training;System+Design+Explorer;C%2B%2B+%7C+Python+%7C+FastAPI" />
+Backend Developer · API Engineering · Workflow Automation Systems
 </p>
 
 <p align="center">
-  <b>Learning deeply. Shipping slowly.</b>
+Surat, Gujarat, India
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🧠 Identity
+## Engineering Profile
 
-🎓 B.Tech Computer Engineering Student  
-🏫 CSPIT, CHARUSAT University  
-📍 Surat, Gujarat, India  
+Backend-focused engineering student building automation infrastructure, API-driven workflow systems, and LLM-integrated processing pipelines.
 
-I am building myself into a **Backend & Automation Engineer**.
+Primary interest areas:
 
-I focus on:
-- Understanding how systems work internally  
-- Writing structured, clean backend logic  
-- Strengthening DSA for real engineering depth  
-- Building automation workflows instead of repetitive manual processes  
+- Backend services
+- Workflow orchestration systems
+- API infrastructure
+- Fintech platform engineering
+- Document-processing pipelines
 
-I prefer clarity over hype.  
-Foundations over shortcuts.  
-Systems over surface.
+GitHub repositories demonstrate:
+
+- workflow automation pipelines
+- REST API integrations
+- OCR-based structured extraction systems
+- LLM routing architectures
+- SaaS-style backend configuration logic
 
 ---
 
-## ⚙️ Backend Core
+## Core Technology Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,fastapi,firebase,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,firebase,docker,linux,git,github"/>
 </p>
 
 ### Languages
-- **C / C++** → Intermediate (DSA / DAA oriented)
-- **Python 3** → Actively strengthening
-- **SQL (SQLPlus)** → Beginner
-- **PostgreSQL** → Beginner
 
-### Backend Stack
-- FastAPI (Learning & experimenting)
-- API Integration (Intermediate understanding)
-- Firebase (Frequent usage)
-- REST architecture basics
-- n8n Automation (Frequent usage)
+Python  
+C / C++
 
-### Systems
-- Linux basics
-- Git workflow fundamentals
-- Structured problem-solving approach
+### Backend & APIs
+
+REST APIs  
+FastAPI (API development familiarity)  
+SMTP automation pipelines
+
+### Databases
+
+PostgreSQL  
+MySQL  
+Firebase  
+Supabase  
+
+Focus:
+
+relational schema fundamentals  
+table relationships  
+query structure awareness
+
+### Workflow Orchestration
+
+n8n
+
+Experience includes:
+
+multi-stage pipelines  
+trigger-based execution  
+LLM routing workflows  
+automation-first backend logic
+
+### AI API Integration
+
+OpenAI API  
+Gemini API  
+Grok API
+
+Used for:
+
+classification pipelines  
+document parsing  
+response routing systems  
+evaluation workflows
+
+### Infrastructure & Deployment
+
+Docker (basic container usage)  
+Linux CLI (environment setup + execution workflows)  
+Vercel deployment  
+Netlify deployment
 
 ---
 
-## 🔍 Current Engineering Focus
+## Selected Engineering Work
 
-- 📌 FastAPI backend architecture  
-- 📌 Data Structures & Algorithms in C++  
-- 📌 System design fundamentals  
-- 📌 Python deep fundamentals  
-- 📌 n8n workflow automation  
+### CertifyPro
 
----
+Full-Stack SaaS Certificate Automation & Verification Platform  
+Institutional deployment-oriented backend system
 
-## 🏗️ Engineering Philosophy
+Key capabilities:
 
-- Backend first mindset  
-- Logic before UI  
-- Readability over cleverness  
-- Consistency over motivation  
+- Excel-to-certificate structured pipeline
+- public verification API endpoint
+- multi-organization backend configuration
+- automated issuance workflows
 
-I don’t aim to look like an engineer.  
-I aim to become one.
+Focus area:
+
+automation infrastructure for digital credential delivery systems
 
 ---
 
-## 📊 GitHub Analytics
+### AI Resume Screening Pipeline
+
+LLM evaluation pipeline + workflow orchestration system
+
+Implements:
+
+resume ingestion pipeline  
+structured skill extraction  
+candidate scoring logic  
+automated shortlist generation  
+SMTP notification workflows
+
+Result:
+
+reduces manual screening effort through configurable evaluation pipelines
+
+---
+
+### Gmail Workflow Automation System
+
+Multi-stage inbox classification & routing pipeline
+
+Features:
+
+LLM routing logic  
+category-aware classification  
+automated response generation  
+trigger-based orchestration execution  
+
+Designed for:
+
+business communication automation workflows
+
+---
+
+### Invoice Processing Pipeline
+
+OCR-based structured data extraction system
+
+Pipeline capabilities:
+
+layout-adaptive parsing  
+field-level extraction logic  
+Google Sheets API delivery  
+workflow-triggered processing execution
+
+Purpose:
+
+replace manual invoice transcription workflows
+
+---
+
+## Engineering Focus Areas (Current)
+
+Actively strengthening:
+
+FastAPI backend architecture  
+API service structuring  
+workflow orchestration reliability  
+database schema modeling fundamentals  
+automation-first backend system design
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📬 Connect
+## Contact
 
-<p align="center">
-  <a href="mailto:harshilkalsariya28@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshil-kalsariya-629651318">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
+<p align="left">
+
+Email  
+harshilkalsariya28@gmail.com
+
+LinkedIn  
+linkedin.com/in/harshil-kalsariya-629651318
+
 </p>
 
 ---
 
-<p align="center">
-  <i>Backend Developer in Progress • Automation Engineer in Training • System Thinker</i>
-</p>
+## Engineering Direction
+
+Backend engineering  
+workflow automation infrastructure  
+API integration systems  
+fintech platform tooling
