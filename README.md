@@ -169,37 +169,6 @@ Enterprise ETL & Data Warehouse Pipeline
 └─ airflow-ready workflow structure
 ```
 
----
-
-# 🧩 ETL WORKFLOW
-
-```mermaid
-flowchart LR
-    A[Stripe API] --> B[Extraction Layer]
-    C[Salesforce API] --> B
-    B --> D[Raw JSON Storage]
-    D --> E[Transformation Layer]
-    E --> F[Validation Engine]
-    F --> G[PostgreSQL Warehouse]
-    H[Airflow Scheduler] -->|orchestrates| B
-    H -->|orchestrates| E
-    H -->|orchestrates| G
-```
-
----
-
-# 📌 CURRENT ENGINEERING FOCUS
-
-* fastapi service architecture
-* enterprise api integrations
-* workflow reliability patterns
-* backend deployment pipelines
-* dockerized backend systems
-* jwt authentication workflows
-* enterprise etl architectures
-* airflow-ready orchestration systems
-
----
 
 # 📊 CONTRIBUTION GRAPH
 
@@ -228,18 +197,6 @@ flowchart LR
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🎯 TARGET ROLES
-
-```yaml
-roles:
-  - backend engineering intern
-  - api infrastructure intern
-  - workflow automation engineer intern
-  - fintech platform engineering intern
-  - backend systems engineering intern
-```
 
 ---
 
