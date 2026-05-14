@@ -54,6 +54,15 @@ Surat , India
 ## SYSTEMS BUILT
 
 ```
+Enterprise ETL & Data Warehouse Pipeline (working)
+├─ stripe api extraction pipeline
+├─ salesforce jwt oauth integration
+├─ dockerized backend orchestration
+├─ raw json data lake architecture
+├─ postgresql warehouse integration
+├─ production-grade certificate authentication
+└─ airflow-ready workflow structure
+
 CertifyPro
 ├─ bulk certificate generation pipeline
 ├─ excel → template automation engine
