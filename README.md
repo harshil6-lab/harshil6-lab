@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Harshil P Kalsariya ⚡</h1>
+<h1 align="center"> Harshil P Kalsariya </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=1000&lines=Backend+Engineering;API+Infrastructure+Systems;Workflow+Automation+Architecture;Enterprise+ETL+%26+Data+Pipelines;LLM+Routing+Pipelines;Production-Grade+Automation+Systems"/>
