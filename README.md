@@ -1,205 +1,308 @@
-<h1 align="center"> Harshil P Kalsariya </h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0a1628,100:0D1117&height=1&section=header"/>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=1000&lines=Backend+Engineering;API+Infrastructure+Systems;Workflow+Automation+Architecture;Enterprise+ETL+%26+Data+Pipelines;LLM+Routing+Pipelines;Production-Grade+Automation+Systems"/>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00C2FF&height=120&section=header"/>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,100:00C2FF&height=200&section=header&text=HARSHIL%20P.%20KALSARIYA&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%94%20Surat%2C%20Gujarat%2C%20India&descSize=14&descAlignY=75&descColor=aaaaaa&animation=fadeIn"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-0F172A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API%20Infrastructure-111827?style=for-the-badge&logo=fastapi&logoColor=00C2FF"/>
-  <img src="https://img.shields.io/badge/Workflow%20Automation-0B1120?style=for-the-badge&logo=n8n&logoColor=ff6d5a"/>
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-020617?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-</p>
+<br>
 
----
+<div align="center">
 
-<h2 align="center">🌐 CONNECT</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=600&lines=API+Infrastructure+%26+Service+Architecture;Workflow+Automation+%26+Orchestration+Engines;LLM+Routing+%26+Document+Processing+Pipelines;Enterprise+ETL+%26+Data+Warehouse+Systems;SMTP+%26+Notification+Automation)](https://git.io/typing-svg)
 
-<p align="center">
-<a href="mailto:harshilkalsariya28@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/harshil-kalsariya-629651318">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/48/marker.png" height="40"/>
-</p>
+</div>
 
-<p align="center">
-Surat · Gujarat · India
-</p>
+<br>
 
 ---
 
-# ⚙️ SYSTEM DOMAINS
+<br>
 
-```yaml
-backend_services:
-  - scalable backend systems
-  - api infrastructure
-  - smtp automation pipelines
+## &nbsp;`01` &nbsp; Core Domains
 
-workflow_systems:
-  - orchestration engines
-  - automation-first architectures
-  - event-driven execution systems
+<br>
 
-ai_integrations:
-  - llm routing pipelines
-  - document processing systems
-  - ai-assisted automation layers
+<table>
+<tr>
+<td width="50%" valign="top">
 
-data_engineering:
-  - enterprise etl systems
-  - raw json data pipelines
-  - warehouse-oriented architectures
-
-fintech:
-  - automation infrastructure
-  - secure backend integrations
-  - platform engineering systems
+**⬡ &nbsp;API & Backend Systems**
+```
+FastAPI  ·  REST APIs  ·  Python
+SMTP Pipelines  ·  Auth Layers
 ```
 
----
+**⬡ &nbsp;Workflow Automation**
+```
+n8n Orchestration  ·  Event-Driven Execution
+Trigger Chains  ·  Automation-First Architecture
+```
 
-# 🚀 BACKEND STACK
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mysql,firebase,docker,linux,git,github,vscode"/>
-</p>
+**⬡ &nbsp;AI / LLM Integration**
+```
+OpenAI  ·  Gemini  ·  Grok
+LLM Routing Pipelines  ·  Document Processing
+```
 
-<table align="center">
-<tr>
-<td><b>Languages</b></td>
-<td>Python · C · C++</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>FastAPI · REST APIs · SMTP Pipelines</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>PostgreSQL · MySQL · Firebase · Supabase</td>
-</tr>
-<tr>
-<td><b>Infrastructure</b></td>
-<td>Docker · Linux CLI · GitHub Workflows</td>
-</tr>
-<tr>
-<td><b>Automation</b></td>
-<td>n8n · OCR Pipelines · Google APIs</td>
-</tr>
-<tr>
-<td><b>AI APIs</b></td>
-<td>OpenAI · Gemini · Grok</td>
-</tr>
-<tr>
-<td><b>Deployment</b></td>
-<td>Docker · Vercel · Netlify</td>
+**⬡ &nbsp;Data Engineering**
+```
+ETL Pipelines  ·  PostgreSQL Warehousing
+Raw JSON Lakes  ·  Airflow-Ready DAGs
+```
+
+</td>
 </tr>
 </table>
 
+<br>
+
 ---
 
-# 🧠 SYSTEMS BUILT
+<br>
 
-## 🏗️ CertifyPro
+## &nbsp;`02` &nbsp; Technology Stack
 
-```text
-CertifyPro
-├─ bulk certificate generation pipeline
-├─ excel → template automation engine
-├─ verification api endpoint
-└─ multi-organization backend configuration layer
+<br>
+
+<div align="center">
+
+| Layer | Technologies |
+|:---|:---|
+| **Languages** | Python &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ |
+| **Backend** | FastAPI &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; SMTP Pipelines |
+| **Databases** | PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Firebase &nbsp;·&nbsp; Supabase |
+| **Automation** | n8n &nbsp;·&nbsp; OCR Pipelines &nbsp;·&nbsp; Google APIs |
+| **AI / LLM** | OpenAI &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Grok |
+| **Infrastructure** | Docker &nbsp;·&nbsp; Linux CLI &nbsp;·&nbsp; GitHub Actions |
+| **Deployment** | Docker &nbsp;·&nbsp; Vercel &nbsp;·&nbsp; Netlify |
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mysql,firebase,docker,linux,git,github&perline=10"/>
+</div>
+
+<br>
+
+---
+
+<br>
+
+## &nbsp;`03` &nbsp; Systems Built
+
+<br>
+
+<details open>
+<summary><b>&nbsp;◈ &nbsp;CertifyPro &nbsp;—&nbsp; Bulk Certificate Generation & Verification</b></summary>
+
+<br>
+
+```
+INPUT              PROCESSING                        OUTPUT
+─────────────────────────────────────────────────────────────
+Excel Sheet   →   Template Engine   →   Bulk Certs (PDF/PNG)
+                       │
+                  Field Injection
+                  Multi-Org Config
+                       │
+                  Verification API   →   GET /verify/{id}
+                                         { valid: true }
+─────────────────────────────────────────────────────────────
+Stack: Python · FastAPI · Excel Automation
 ```
 
+<br>
+</details>
+
 ---
 
-## 🤖 AI Resume Screening Pipeline
+<details>
+<summary><b>&nbsp;◈ &nbsp;AI Resume Screening Pipeline &nbsp;—&nbsp; LLM-Powered Candidate Ranking</b></summary>
 
-```text
-AI Resume Screening Pipeline
-├─ llm skill extraction engine
-├─ rule-based candidate ranking workflow
-├─ multi-stage orchestration via n8n
-└─ smtp notification dispatch automation
+<br>
+
+```
+STAGE 1          STAGE 2               STAGE 3          STAGE 4
+────────────────────────────────────────────────────────────────
+Resume Upload → LLM Extraction  →  Rule-Based Rank  →  Dispatch
+                (skill map)        (weight scoring)    (SMTP)
+                OpenAI/Gemini      experience ×         ↓
+                                   role match        Shortlist /
+                                        │            Rejection
+                                   n8n Orchestration   Notify
+────────────────────────────────────────────────────────────────
+Stack: Python · n8n · OpenAI · SMTP
 ```
 
+<br>
+</details>
+
 ---
 
-## 📩 Gmail Routing System
+<details>
+<summary><b>&nbsp;◈ &nbsp;Gmail Routing System &nbsp;—&nbsp; LLM-Classified Inbox Automation</b></summary>
 
-```text
-Gmail Routing System
-├─ multi-stage inbox classification workflow
-├─ llm routing logic via gemini api
-├─ category-aware automated response pipeline
-└─ trigger-based execution orchestration
+<br>
+
+```
+Gmail Trigger
+      │
+      ▼
+Multi-Stage Classifier (Gemini API)
+      │
+      ├── support  →  Auto-Reply Template
+      ├── billing  →  Escalation Queue
+      ├── general  →  LLM-Drafted Response
+      └── spam     →  Archive & Discard
+                           │
+                    n8n Execution Layer
+────────────────────────────────────────
+Stack: n8n · Gemini API · Google Workspace APIs
 ```
 
+<br>
+</details>
+
 ---
 
-## 📄 Invoice OCR Processing Pipeline
+<details>
+<summary><b>&nbsp;◈ &nbsp;Invoice OCR Pipeline &nbsp;—&nbsp; Layout-Adaptive Document Extraction</b></summary>
 
-```text
-Invoice OCR Processing Pipeline
-├─ layout-adaptive document extraction logic
-├─ structured vendor/date/amount parsing
-└─ google sheets api delivery workflow
+<br>
+
+```
+Invoice (PDF / Image)
+        │
+        ▼
+Layout-Adaptive Extraction Engine
+  ├── tabular invoices
+  ├── free-form layouts
+  └── scanned documents
+        │
+        ▼
+Structured Parser
+  fields: vendor · date · line_items · total · tax
+        │
+        ▼
+Google Sheets API  →  append row · format · notify
+────────────────────────────────────────────────────
+Stack: Python · OCR · Google Sheets API
 ```
 
+<br>
+</details>
+
 ---
 
-## 🏢 Enterprise ETL & Data Warehouse Pipeline <sub>(working)</sub>
+<details>
+<summary><b>&nbsp;◈ &nbsp;Enterprise ETL & Data Warehouse &nbsp;—&nbsp; <code>active build · 80%</code></b></summary>
 
-```text
-Enterprise ETL & Data Warehouse Pipeline
-├─ stripe api extraction pipeline
-├─ salesforce jwt oauth integration
-├─ dockerized backend orchestration
-├─ raw json data lake architecture
-├─ postgresql warehouse integration
-├─ production-grade certificate authentication
-└─ airflow-ready workflow structure
+<br>
+
+```
+ ┌──────────────┐     ┌──────────────────────┐
+ │  Stripe API  │     │  Salesforce (JWT/SSO) │
+ └──────┬───────┘     └──────────┬────────────┘
+        └──────────┬─────────────┘
+                   ▼
+        [ Extraction Layer ]
+          Raw JSON Data Lake
+                   │
+                   ▼
+        [ Dockerized Backend ]
+         mTLS Certificate Auth
+                   │
+         ┌─────────┴──────────┐
+         ▼                    ▼
+  Transformation         PostgreSQL
+     Engine               Warehouse
+         └─────────┬──────────┘
+                   ▼
+        [ Airflow-Ready Scheduler ]
+          DAG-compatible structure
+─────────────────────────────────────────────────────────
+Stack: Python · Docker · PostgreSQL · Stripe · Salesforce
+Progress: ▓▓▓▓▓▓▓▓░░  80%
 ```
 
+<br>
+</details>
 
-# 📊 CONTRIBUTION GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshil6-lab&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+<br>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+<br>
 
-<p align="center">
+## &nbsp;`04` &nbsp; GitHub Analytics
+
+<br>
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00C2FF&text_color=8B949E&ring_color=00FF88"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8B949E"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00C2FF&currStreakLabel=00FF88&sideLabels=8B949E&dates=555555"/>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshil6-lab&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00C2FF&point=FFFFFF&area=true&area_color=00FF8822"/>
+</div>
+
+<br>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
+
+<br>
 
 ---
 
-# 📈 GITHUB ANALYTICS
+<br>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## &nbsp;`05` &nbsp; Connect
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true"/>
-</p>
+<br>
 
+<div align="center">
+
+<a href="mailto:harshilkalsariya28@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-harshilkalsariya28%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/harshil-kalsariya-629651318">
+  <img src="https://img.shields.io/badge/LinkedIn-harshil--kalsariya-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-00FF88?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+</div>
+
+<br>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0F172A&height=120&section=footer"/>
-</p>
+<div align="center">
+<sub><code>backend · api · automation · etl · llm · surat · india</code></sub>
+</div>
