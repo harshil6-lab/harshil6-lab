@@ -287,29 +287,6 @@ Progress:  ▓▓▓▓▓▓▓▓░░  80%
 
 <br>
 
-## &nbsp;`05` &nbsp; Backend Principles
-
-<br>
-
-> *"A good API is one you don't have to think about after you build it."*
-
-<br>
-
-```
-✦  Design for failure first — happy path comes second
-✦  Async by default, sync only when forced
-✦  Logs are the backend engineer's source of truth
-✦  If it isn't automated, it's a future incident
-✦  Schema discipline prevents 3am incidents
-✦  A queue is almost always the right answer
-```
-
-<br>
-
----
-
-<br>
-
 ## &nbsp;`06` &nbsp; GitHub Analytics
 
 <br>
