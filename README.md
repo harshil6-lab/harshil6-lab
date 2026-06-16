@@ -23,11 +23,11 @@
 ```yaml
 # /etc/profile.d/harshil.yaml
 engineer    : Harshil P. Kalsariya
-role        : Backend Engineer
+role        : Backend Engineer · DevOps
 location    : Surat · Gujarat · India
 philosophy  : "Build systems that scale silently and fail loudly."
-currently   : Enterprise ETL & Data Warehouse Pipeline [80%]
-open_to     : Backend roles · API infra · Automation systems · ETL projects
+currently   : Enterprise ETL & Data Warehouse Pipeline [80%] · Cloud Infra Auditor [active]
+open_to     : Backend roles · API infra · Automation systems · ETL projects · Cloud/DevOps
 response    : < 24h
 ```
 
@@ -76,6 +76,13 @@ Raw JSON Lakes  ·  Stripe · Salesforce
 Airflow-Ready DAG Structure
 ```
 
+**`/cloud`** &nbsp; Cloud Infrastructure & FinOps
+```
+AWS Auditing  ·  Cost Optimization
+Resource Hygiene  ·  Boto3 Automation
+CLI Tooling  ·  Dry-Run Safe Cleanup
+```
+
 </td>
 </tr>
 </table>
@@ -117,6 +124,7 @@ Airflow-Ready DAG Structure
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 **Automation & AI**
 
@@ -124,6 +132,13 @@ Airflow-Ready DAG Structure
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+**Cloud & FinOps**
+
+![Boto3](https://img.shields.io/badge/Boto3-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Typer](https://img.shields.io/badge/Typer_CLI-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rich](https://img.shields.io/badge/Rich_TUI-0D1117?style=for-the-badge&logo=python&logoColor=00FF88)
+![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 
 </div>
 
@@ -136,6 +151,47 @@ Airflow-Ready DAG Structure
 ## &nbsp;`04` &nbsp; Systems Built
 
 <br>
+
+<details open>
+<summary><b>&nbsp;◈ &nbsp;Cloud Infrastructure Auditor &nbsp;—&nbsp; AWS Cost Optimizer & Resource Hygiene CLI &nbsp;<code>[active]</code></b></summary>
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        AWS Account                                  │
+│  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────────┐  │
+│  │  EBS Volumes │  │ Elastic IPs  │  │  EC2 Instances           │  │
+│  │  (unattached)│  │(unassociated)│  │  (CloudWatch utilization)│  │
+│  └──────┬───────┘  └──────┬───────┘  └────────────┬─────────────┘  │
+└─────────┼─────────────────┼───────────────────────┼────────────────┘
+          └─────────────────┼───────────────────────┘
+                            ▼
+               ┌────────────────────────┐
+               │    Audit Engine        │
+               │    Multi-Region Scan   │
+               │    Boto3 · Python 3.11 │
+               └──────────┬─────────────┘
+                          │
+          ┌───────────────┼──────────────────┐
+          ▼               ▼                  ▼
+ ┌──────────────┐  ┌────────────┐  ┌─────────────────┐
+ │  Rich TUI    │  │  JSON/CSV  │  │  Safe Cleanup   │
+ │  Terminal    │  │  Reports   │  │  Dry-Run Mode   │
+ │  Dashboard   │  │  Export    │  │  Confirm Before │
+ └──────────────┘  └────────────┘  │  Execution      │
+                                   └─────────────────┘
+
+Stack    :  Python 3.11 · Typer · Rich · Boto3 · Pytest · Moto
+Pattern  :  CLI Tooling · FinOps Automation · Safe Execution Workflow
+Team     :  Harshil Kalsariya · Rifaz G · Sravya M · Prakash Bhanu
+Timeline :  W1 CLI Auth → W2 Scanners → W3 Reports → W4 Packaging
+Progress :  ▓▓░░░░░░░░  Day-0 · Initializing
+```
+
+<br>
+</details>
+
+---
 
 <details open>
 <summary><b>&nbsp;◈ &nbsp;CertifyPro &nbsp;—&nbsp; Bulk Certificate Generation & Verification API</b></summary>
