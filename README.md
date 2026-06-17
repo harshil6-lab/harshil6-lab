@@ -299,7 +299,7 @@ Pattern:  Document Intelligence · Structured Extraction · API Delivery
 ---
 
 <details>
-<summary><b>&nbsp;◈ &nbsp;Enterprise ETL & Data Warehouse &nbsp;—&nbsp; <code>[active · 80%]</code></b></summary>
+<summary><b>&nbsp;◈ &nbsp;Enterprise ETL & Data Warehouse &nbsp;—&nbsp; <code>[active · 100%]</code></b></summary>
 <br>
 
 ```
