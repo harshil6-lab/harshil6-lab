@@ -1,13 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,100:00C2FF&height=220&section=header&text=HARSHIL%20P.%20KALSARIYA&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%94%20API%20Infrastructure%20%7C%20Automation%20%7C%20ETL%20%7C%20LLM%20Pipelines&descSize=13&descAlignY=74&descColor=aaaaaa&animation=fadeIn"/>
-</div>
-
-<br>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2000&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Designing+systems+that+run+when+no+one+is+watching...;APIs+%7C+Pipelines+%7C+Orchestration+%7C+Automation;If+it+can+be+automated%2C+it+will+be+automated.;Backend+is+not+a+layer+%E2%80%94+it+is+the+foundation.)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,100:00C2FF&height=200&section=header&text=HARSHIL%20P.%20KALSARIYA&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%94%20Data%20Infrastructure%20%7C%20Cloud%20%7C%20Automation&descSize=13&descAlignY=72&descColor=aaaaaa&animation=fadeIn"/>
 </div>
 
 <br>
@@ -16,19 +8,18 @@
 
 <br>
 
-## &nbsp;`01` &nbsp; Identity
+## &nbsp;`01` &nbsp; Profile
 
 <br>
 
 ```yaml
 # /etc/profile.d/harshil.yaml
-engineer    : Harshil P. Kalsariya
-role        : Backend Engineer · DevOps
-location    : Surat · Gujarat · India
-philosophy  : "Build systems that scale silently and fail loudly."
-currently   : Enterprise ETL & Data Warehouse Pipeline [80%] · Cloud Infra Auditor [active]
-open_to     : Backend roles · API infra · Automation systems · ETL projects · Cloud/DevOps
-response    : < 24h
+name        : Harshil P. Kalsariya
+role        : Backend Engineer · Data Infrastructure · DevOps
+location    : Surat, Gujarat, India
+focus       : Production ETL systems · Cloud cost auditing · Backend APIs · Workflow automation
+currently   : Enterprise Data Warehouse Sync (Stripe + Salesforce → PostgreSQL) — Airflow orchestrated
+             CLAICO — Cloud cost optimization CLI (Python, Typer)
 ```
 
 <br>
@@ -45,6 +36,25 @@ response    : < 24h
 <tr>
 <td width="50%" valign="top">
 
+**`/data`** &nbsp; Data Engineering
+```
+ETL Pipelines  ·  Apache Airflow (DAGs, 3.x)
+PostgreSQL Warehousing  ·  Raw JSON Data Lakes
+Stripe API  ·  Salesforce (OAuth/JWT)
+Docker-Containerized Pipelines
+```
+
+**`/cloud`** &nbsp; Cloud Infrastructure & FinOps
+```
+AWS (EC2, EBS, Elastic IPs)  ·  Boto3
+Cost Auditing  ·  Resource Hygiene Scanning
+Multi-Region Scans  ·  Dry-Run Safe Cleanup
+Typer CLI Tooling  ·  Rich Terminal Output
+```
+
+</td>
+<td width="50%" valign="top">
+
 **`/api`** &nbsp; Backend & API Systems
 ```
 FastAPI  ·  REST APIs  ·  Python
@@ -56,31 +66,14 @@ Service Architecture
 ```
 n8n  ·  Event-Driven Execution
 Trigger Chains  ·  Scheduled Jobs
-Automation-First Architecture
+GitHub Actions CI/CD
 ```
 
-</td>
-<td width="50%" valign="top">
-
-**`/ai`** &nbsp; LLM & AI Integration
+**`/ai`** &nbsp; LLM Integration
 ```
 OpenAI  ·  Gemini  ·  Grok
 LLM Routing Pipelines
 Document Processing Layers
-```
-
-**`/data`** &nbsp; Data Engineering
-```
-ETL Pipelines  ·  PostgreSQL Warehousing
-Raw JSON Lakes  ·  Stripe · Salesforce
-Airflow-Ready DAG Structure
-```
-
-**`/cloud`** &nbsp; Cloud Infrastructure & FinOps
-```
-AWS Auditing  ·  Cost Optimization
-Resource Hygiene  ·  Boto3 Automation
-CLI Tooling  ·  Dry-Run Safe Cleanup
 ```
 
 </td>
@@ -105,6 +98,12 @@ CLI Tooling  ·  Dry-Run Safe Cleanup
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
+**Data Engineering & Orchestration**
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
 **Backend & API**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
@@ -113,18 +112,25 @@ CLI Tooling  ·  Dry-Run Safe Cleanup
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-**Infrastructure & DevOps**
+**Cloud & FinOps**
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-0D1117?style=for-the-badge&logo=amazonec2&logoColor=FF9900)
+![EBS](https://img.shields.io/badge/EBS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Boto3](https://img.shields.io/badge/Boto3-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Typer](https://img.shields.io/badge/Typer_CLI-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rich](https://img.shields.io/badge/Rich_TUI-0D1117?style=for-the-badge&logo=python&logoColor=00FF88)
+![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
+
+**DevOps & CI/CD**
+
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 **Automation & AI**
 
@@ -132,13 +138,6 @@ CLI Tooling  ·  Dry-Run Safe Cleanup
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge&logo=google&logoColor=4285F4)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-
-**Cloud & FinOps**
-
-![Boto3](https://img.shields.io/badge/Boto3-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Typer](https://img.shields.io/badge/Typer_CLI-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Rich](https://img.shields.io/badge/Rich_TUI-0D1117?style=for-the-badge&logo=python&logoColor=00FF88)
-![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=0A9EDC)
 
 </div>
 
@@ -153,7 +152,57 @@ CLI Tooling  ·  Dry-Run Safe Cleanup
 <br>
 
 <details open>
+<summary><b>&nbsp;◈ &nbsp;Enterprise Data Warehouse Sync &nbsp;—&nbsp; Production ETL Pipeline &nbsp;<code>[active]</code></b></summary>
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-enterprise--data--warehouse--sync-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/harshil6-lab/enterprise-data-warehouse-sync)
+<br>
+
+```
+┌─────────────┐          ┌───────────────────────┐
+│  Stripe API │          │  Salesforce (JWT/SSO) │
+└──────┬──────┘          └───────────┬───────────┘
+       └──────────────┬──────────────┘
+                      ▼
+           ┌─────────────────────┐
+           │   Extraction Layer  │
+           │   Raw JSON Data Lake│
+           └──────────┬──────────┘
+                      ▼
+           ┌─────────────────────┐
+           │  Dockerized Backend │
+           │  mTLS Cert Auth     │
+           └────┬───────────┬────┘
+                ▼           ▼
+      ┌──────────────┐  ┌───────────────────┐
+      │ Transform    │  │ PostgreSQL        │
+      │ Engine       │  │ Warehouse         │
+      └──────┬───────┘  └────────┬──────────┘
+             └──────────┬────────┘
+                        ▼
+             ┌──────────────────────┐
+             │  Apache Airflow DAGs │
+             │  Scheduled Pipelines │
+             └──────────────────────┘
+
+Stack    :  Python · Apache Airflow 3.x · Docker · PostgreSQL · Stripe API · Salesforce OAuth · AWS S3 · GitHub Actions CI/CD
+Pattern  :  Multi-Source ETL · Data Lake → Warehouse · Production Auth · Scheduled Orchestration
+Notes    :  Five-service Airflow 3.x deployment (webserver, scheduler, triggerer, DAG processor,
+            API server) debugged end-to-end, including asyncpg dependency resolution and
+            execution-API-server configuration.
+Progress :  ▓▓▓▓▓▓▓▓▓▓ 100%
+```
+
+<br>
+</details>
+
+---
+
+<details open>
 <summary><b>&nbsp;◈ &nbsp;Cloud Infrastructure Auditor &nbsp;—&nbsp; AWS Cost Optimizer & Resource Hygiene CLI &nbsp;<code>[active]</code></b></summary>
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-cloud--infra--auditor-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/harshil6-lab/cloud-infra-auditor)
 <br>
 
 ```
@@ -183,9 +232,10 @@ CLI Tooling  ·  Dry-Run Safe Cleanup
 
 Stack    :  Python 3.11 · Typer · Rich · Boto3 · Pytest · Moto
 Pattern  :  CLI Tooling · FinOps Automation · Safe Execution Workflow
+Scope    :  EC2 utilization scanning (CloudWatch metrics) · EBS unattached-volume detection ·
+            Elastic IP waste detection · Multi-region sweep
 Team     :  Harshil Kalsariya · Rifaz G · Sravya M · Prakash Bhanu
 Timeline :  W1 CLI Auth → W2 Scanners → W3 Reports → W4 Packaging
-Progress :  ▓▓░░░░░░░░  Day-0 · Initializing
 ```
 
 <br>
@@ -193,8 +243,11 @@ Progress :  ▓▓░░░░░░░░  Day-0 · Initializing
 
 ---
 
-<details open>
+<details>
 <summary><b>&nbsp;◈ &nbsp;CertifyPro &nbsp;—&nbsp; Bulk Certificate Generation & Verification API</b></summary>
+<br>
+
+[![Repository](https://img.shields.io/badge/Repository-certifypro-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/harshil6-lab/certifypro)
 <br>
 
 ```
@@ -296,54 +349,13 @@ Pattern:  Document Intelligence · Structured Extraction · API Delivery
 <br>
 </details>
 
----
-
-<details>
-<summary><b>&nbsp;◈ &nbsp;Enterprise ETL & Data Warehouse &nbsp;—&nbsp; <code>[active · 100%]</code></b></summary>
-<br>
-
-```
-┌─────────────┐          ┌───────────────────────┐
-│  Stripe API │          │  Salesforce (JWT/SSO) │
-└──────┬──────┘          └───────────┬───────────┘
-       └──────────────┬──────────────┘
-                      ▼
-           ┌─────────────────────┐
-           │   Extraction Layer  │
-           │   Raw JSON Data Lake│
-           └──────────┬──────────┘
-                      ▼
-           ┌─────────────────────┐
-           │  Dockerized Backend │
-           │  mTLS Cert Auth     │
-           └────┬───────────┬────┘
-                ▼           ▼
-      ┌──────────────┐  ┌───────────────────┐
-      │ Transform    │  │ PostgreSQL        │
-      │ Engine       │  │ Warehouse         │
-      └──────┬───────┘  └────────┬──────────┘
-             └──────────┬────────┘
-                        ▼
-             ┌──────────────────────┐
-             │  Airflow-Ready DAGs  │
-             │  Scheduled Pipelines │
-             └──────────────────────┘
-
-Stack  :  Python · Docker · PostgreSQL · Stripe API · Salesforce OAuth
-Pattern:  Multi-Source ETL · Data Lake → Warehouse · Production Auth
-Progress :  ▓▓▓▓▓▓▓▓▓▓  100%
-```
-
-<br>
-</details>
-
 <br>
 
 ---
 
 <br>
 
-## &nbsp;`06` &nbsp; GitHub Analytics
+## &nbsp;`05` &nbsp; GitHub Analytics
 
 <br>
 
@@ -369,17 +381,11 @@ Progress :  ▓▓▓▓▓▓▓▓▓▓  100%
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<br>
-
 ---
 
 <br>
 
-## &nbsp;`07` &nbsp; Connect
+## &nbsp;`06` &nbsp; Contact
 
 <br>
 
@@ -396,5 +402,5 @@ Progress :  ▓▓▓▓▓▓▓▓▓▓  100%
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00C2FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00C2FF&height=90&section=footer"/>
 </div>
