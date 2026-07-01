@@ -190,7 +190,7 @@ Pattern  :  Multi-Source ETL · Data Lake → Warehouse · Production Auth · Sc
 Notes    :  Five-service Airflow 3.x deployment (webserver, scheduler, triggerer, DAG processor,
             API server) debugged end-to-end, including asyncpg dependency resolution and
             execution-API-server configuration.
-Progress :  ▓▓▓▓▓▓▓▓▓▓ 100%
+Progress :  ▓▓▓▓▓▓░░░░ 60%
 ```
 
 <br>
@@ -236,6 +236,7 @@ Scope    :  EC2 utilization scanning (CloudWatch metrics) · EBS unattached-volu
             Elastic IP waste detection · Multi-region sweep
 Team     :  Harshil Kalsariya · Rifaz G · Sravya M · Prakash Bhanu
 Timeline :  W1 CLI Auth → W2 Scanners → W3 Reports → W4 Packaging
+Progress :  ▓▓▓▓▓▓▓░░░ 65%
 ```
 
 <br>
