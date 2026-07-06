@@ -190,7 +190,7 @@ Pattern  :  Multi-Source ETL · Data Lake → Warehouse · Production Auth · Sc
 Notes    :  Five-service Airflow 3.x deployment (webserver, scheduler, triggerer, DAG processor,
             API server) debugged end-to-end, including asyncpg dependency resolution and
             execution-API-server configuration.
-Progress :  ▓▓▓▓▓▓░░░░ 60%
+Progress :  ▓▓▓▓▓▓░░░░ 70%
 ```
 
 <br>
