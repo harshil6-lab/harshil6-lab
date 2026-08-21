@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF88,100:00C2FF&height=200&section=header&text=HARSHIL%20P.%20KALSARIYA&fontSize=34&fontColor=ffffff&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%94%20Data%20Infrastructure%20%7C%20Cloud%20%7C%20Automation&descSize=13&descAlignY=72&descColor=aaaaaa&animation=fadeIn"/>
 </div>
 
-
 <br>
 
 ---
