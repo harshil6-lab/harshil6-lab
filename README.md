@@ -363,7 +363,12 @@
 <br><br>
 
 **🏆 Achievements Unlocked**
-<img src="https://github-profile-trophy.vercel.app/?username=harshil6-lab&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Stars,PullRequest,Repositories"/>
+<img src="https://github-profile-trophy.vercel.app/?username=harshil6-lab" alt="trophy" />
+
+<br><br>
+
+**🃏 `man fortune` — a random dev joke, refreshes on its own**
+<img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card"/>
 
 </div>
 
