@@ -367,9 +367,6 @@
 
 <br><br>
 
-**🃏 `man fortune` — a random dev joke, refreshes on its own**
-<img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card"/>
-
 </div>
 
 <details>
