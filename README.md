@@ -1,152 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1E90FF,50:00C2FF,100:FF8C00&height=220&section=header&text=HARSHIL%20KALSARIYA&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Backend%20Engineer%20%7C%20Data%20Infra%20%7C%20Cloud%20%7C%20Automation&descSize=15&descAlignY=64&descColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:FF006E,55:8338EC,80:3A86FF,100:39FF14&height=220&section=header&text=HARSHIL%20KALSARIYA&fontSize=50&fontColor=ffffff&fontAlignY=42&desc=%3E%20systemctl%20status%20backend--engineer.service%20--%20active%20(running)&descSize=14&descAlignY=64&descColor=39FF14&animation=twinkling"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=700&color=FF8C00&center=true&vCenter=true&width=760&lines=%F0%9F%90%B1+Oggy+keeps+the+house+clean...;%F0%9F%AA%B3+Cockroaches+ship+bugs+%26+cloud+waste...;%F0%9F%94%A7+Harshil+fixes+the+pipelines+in+between.;%E2%98%95+Production+is+the+house.+Bugs+are+the+roaches."/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2400&pause=600&color=39FF14&background=0D111700&center=true&vCenter=true&width=800&lines=harshil%40cluster%3A~%24+kubectl+get+pods+-n+career;NAME%3A+backend-engineer-7f9c8+STATUS%3A+Running;harshil%40cluster%3A~%24+raft+--elect+--role%3Dprimary;election+term+7%3A+harshil+elected+PRIMARY+(uncontested)"/></a>
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-FF8C00?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1E90FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF8C00?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF8C00?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8338EC?style=for-the-badge&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-FF006E?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FB5607?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3A86FF?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39FF14?style=for-the-badge&logo=postgresql&logoColor=1a1a1a)
+![n8n](https://img.shields.io/badge/n8n-FFBE0B?style=for-the-badge&logo=n8n&logoColor=1a1a1a)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39FF14)
 
 <br><br>
 
-<a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20MY%20RESUME-FF8C00?style=for-the-badge&logoColor=white&labelColor=1E90FF&label=CLICK%20ME" height="46"/></a>
+<a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20curl%20-O%20resume.pdf-FF006E?style=for-the-badge&logoColor=white&labelColor=0D1117&label=%24" height="46"/></a>
 &nbsp;
-<a href="https://drive.google.com/file/d/13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7/view?usp=sharing"><img src="https://img.shields.io/badge/%F0%9F%91%80%20VIEW%20ONLINE-1E90FF?style=for-the-badge&labelColor=FF8C00&label=OR" height="46"/></a>
+<a href="https://drive.google.com/file/d/13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7/view?usp=sharing"><img src="https://img.shields.io/badge/%F0%9F%91%80%20cat%20resume.pdf-8338EC?style=for-the-badge&labelColor=0D1117&label=%24" height="46"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=%F0%9F%AA%B3%20ROACHES%20WATCHING&color=FF8C00&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=%F0%9F%93%A1%20REQUESTS%20SERVED&color=39FF14&style=for-the-badge"/>
 
 <br><br>
 
-**🧭 Jump to an episode:**
-[⚡ Flash](#flash) · [🎬 Cast](#cast) · [🎒 Toolbox](#toolbox) · [📺 Episodes](#episodes) · [📊 Scoreboard](#scoreboard) · [📞 Contact](#contact)
-
-<br>
-
-> 🚨 **Warning:** Skipping any episode may result in Oggy missing his chance to hire you a great engineer. Scroll slowly. Every section has a cliffhanger. 🪳
+**🧭 `$ ls -la /profile`**
+[💻 boot](#boot) · [🌐 cluster](#cluster) · [⚙️ nodes](#toolbox) · [🪣 buckets](#episodes) · [🕹️ /dev/games](#games) · [📊 metrics](#scoreboard) · [📡 uplink](#contact)
 
 </div>
 
 <br>
 
-<a name="flash"></a>
+<a name="boot"></a>
 
-## ⚡ `EPISODE 00` &nbsp; The 10-Second Flash (for Recruiters in a Hurry)
+## 💻 `~/boot.log` — Node Bootstrap Sequence
 
-> 🐱 *Oggy just wants a peaceful day. The roaches want the fridge. I sit in the middle and build systems that don't fall apart.*
+```text
+[    0.000000] Linux harshil-node-01 6.28.0-cluster #1 SMP PREEMPT
+[    0.014201] Command line: BOOT_IMAGE=career.img root=/dev/backend rw single-node-no-more
+[    0.091823] CPU0: Backend Engineer core online (3+ yrs, no thermal throttling detected)
+[    0.204019] discovery: joining cluster "production" via seed nodes [stripe, salesforce, aws]
+[    0.298113] raft: node harshil-node-01 requesting vote for term 7
+[    0.351902] raft: election term 7: harshil-node-01 elected PRIMARY (uncontested — everyone else timed out)
+[    0.410007] mount: /dev/stripe      -> /warehouse/raw   type=json
+[    0.432501] mount: /dev/salesforce  -> /warehouse/raw   type=oauth2/jwt
+[    0.502290] loadmodule: apache-airflow-3.x .......................... [ OK ]
+[    0.549871] loadmodule: postgresql-warehouse ........................ [ OK ]
+[    0.601203] loadmodule: boto3-aws-sdk ................................ [ OK ]
+[    0.649981] systemd: starting fastapi.service ........................ [ OK ]
+[    0.702440] systemd: starting n8n-automation.service .................. [ OK ]
+[    0.751002] gc: reaped 12 zombie EC2 processes, flagged 7 orphaned EBS volumes
+[    0.800000] heartbeat: node harshil-node-01 healthy, latency 4ms, SLA 99.98%
+[    0.851190] harshil-node-01 login: kalsariya
+[    0.900000] cluster status: GREEN — accepting new connections (recruiters welcome)
+```
 
 <table width="100%">
-<tr><td width="28%"><b>🙋 Who</b></td><td><b>Harshil P. Kalsariya</b>: Backend Engineer · Data Infrastructure · DevOps</td></tr>
-<tr><td><b>📍 Where</b></td><td>Surat, Gujarat, India</td></tr>
-<tr><td><b>🛠️ Superpower</b></td><td>Production ETL · Cloud cost auditing · Backend APIs · Workflow automation</td></tr>
-<tr><td><b>🔥 Right now</b></td><td>① Enterprise Data Warehouse Sync (Stripe + Salesforce → PostgreSQL, Airflow)<br>② CLAICO: AWS cost optimization CLI (Python, Typer)</td></tr>
-<tr><td><b>🧰 Core stack</b></td><td>Python · Airflow 3.x · Docker · PostgreSQL · AWS (Boto3) · FastAPI · n8n · GitHub Actions</td></tr>
-<tr><td><b>📄 Resume</b></td><td><a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><b>⬇️ Download PDF</b></a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7/view?usp=sharing">👀 View online</a></td></tr>
-<tr><td><b>📬 Talk to me</b></td><td><a href="mailto:harshilkalsariya28@gmail.com">harshilkalsariya28@gmail.com</a> · <a href="https://linkedin.com/in/harshil-kalsariya-629651318">LinkedIn</a></td></tr>
+<tr><td width="26%">🙋 <code>whoami</code></td><td><b>Harshil P. Kalsariya</b> — Backend Engineer · Data Infrastructure · Distributed Systems · DevOps</td></tr>
+<tr><td>📍 <code>hostname</code></td><td>Surat, Gujarat, India</td></tr>
+<tr><td>🌐 <code>cluster role</code></td><td>Production ETL · Cloud cost auditing · Backend APIs · Workflow automation</td></tr>
+<tr><td>⚡ <code>ps aux | grep active</code></td><td>① Enterprise Data Warehouse Sync (Stripe + Salesforce → PostgreSQL, Airflow)<br>② CLAICO — AWS cost optimization CLI (Python, Typer)</td></tr>
+<tr><td>📄 <code>/etc/resume</code></td><td><a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><b>⬇️ Download PDF</b></a> · <a href="https://drive.google.com/file/d/13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7/view?usp=sharing">View online</a></td></tr>
+<tr><td>📡 <code>uplink</code></td><td><a href="mailto:harshilkalsariya28@gmail.com">harshilkalsariya28@gmail.com</a> · <a href="https://linkedin.com/in/harshil-kalsariya-629651318">LinkedIn</a></td></tr>
 </table>
 
 <br>
 
 ---
 
-<br>
+<a name="cluster"></a>
 
-<div align="center">
+## 🌐 `$ kubectl get pods -n harshil` — Cluster Status
 
-### ⬇️ *NEXT EPISODE: Meet the cast. One of them is a dog who lifts servers.* ⬇️
+*Everything below is a pod. Everything is `Running`. No `CrashLoopBackOff` was found here (today).*
 
-</div>
-
-<a name="cast"></a>
-
-## 🎬 `EPISODE 01` &nbsp; The Cast (Who Does What)
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🐱 Oggy: the Data Engineer
-*Keeps everything orderly and running on schedule.*
-```
-ETL Pipelines  ·  Apache Airflow (DAGs, 3.x)
-PostgreSQL Warehousing  ·  Raw JSON Data Lakes
-Stripe API  ·  Salesforce (OAuth/JWT)
-Docker-Containerized Pipelines
-```
-
-### 🐶 Jack: the Cloud & FinOps Guy
-*Heavy lifting, hunts down wasted resources.*
-```
-AWS (EC2, EBS, Elastic IPs)  ·  Boto3
-Cost Auditing  ·  Resource Hygiene Scanning
-Multi-Region Scans  ·  Dry-Run Safe Cleanup
-Typer CLI Tooling  ·  Rich Terminal Output
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🪳 Joey, Marky & Dee Dee: the Backend & API Crew
-*Everywhere, fast, and they get things done.*
-```
-FastAPI  ·  REST APIs  ·  Python
-SMTP Pipelines  ·  Auth Layers
-Service Architecture
-```
-
-### 🍳 The Kitchen: Workflow Automation
-*Everything triggers everything else.*
-```
-n8n  ·  Event-Driven Execution
-Trigger Chains  ·  Scheduled Jobs
-GitHub Actions CI/CD
-```
-
-### 🧠 The Brain: LLM Integration
-```
-OpenAI  ·  Gemini  ·  Grok
-LLM Routing Pipelines
-Document Processing Layers
-```
-
-</td>
-</tr>
-</table>
+| POD | ROLE | STATUS | RESTARTS | NOTES |
+|:--|:--|:--:|:--:|:--|
+| `etl-daemon-7f9c8` | 🟣 Data Engineer | 🟢 Running | 0 | Pipes Stripe/Salesforce → Postgres on schedule |
+| `finops-daemon-2b1a` | 🟠 Cloud/FinOps | 🟢 Running | 0 | Hunts idle EC2, orphaned EBS, unused EIPs |
+| `api-daemon-9d4e` | 🔵 Backend/API | 🟢 Running | 0 | Serves FastAPI + REST, fast, everywhere |
+| `automation-daemon-5c3f` | 🟡 Workflow Automation | 🟢 Running | 0 | n8n trigger chains, GitHub Actions CI/CD |
+| `llm-router-1a7b` | 🟢 AI/LLM | 🟢 Running | 0 | Routes across OpenAI, Gemini, Grok |
+| `coffee-service` | ☕ Fuel | 🟡 Degraded | ∞ | Known issue — actively investigating |
 
 <br>
 
 ---
-
-<br>
-
-<div align="center">
-
-### ⬇️ *NEXT EPISODE: Oggy opens the kitchen drawer. You will not believe what is inside.* ⬇️
-
-</div>
 
 <a name="toolbox"></a>
 
-## 🎒 `EPISODE 02` &nbsp; The Toolbox (Oggy's Kitchen Drawer, Fully Loaded)
+## ⚙️ `$ nodetool status` — Skills Across the Cluster
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **🐍 Languages** | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C) |
-| **🚰 Data Eng & Orchestration** | ![Airflow](https://img.shields.io/badge/Apache_Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=017CEE) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=336791) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED) |
-| **🔌 Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688) ![REST](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=postman&logoColor=FF6C37) ![SMTP](https://img.shields.io/badge/SMTP_Pipelines-0D1117?style=flat-square&logo=mailgun&logoColor=F06B66) |
-| **🗄️ Databases** | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28) ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E) |
-| **☁️ Cloud & FinOps** | ![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![EC2](https://img.shields.io/badge/EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=FF9900) ![EBS](https://img.shields.io/badge/EBS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Boto3](https://img.shields.io/badge/Boto3-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Typer](https://img.shields.io/badge/Typer_CLI-0D1117?style=flat-square&logo=python&logoColor=3776AB) ![Rich](https://img.shields.io/badge/Rich_TUI-0D1117?style=flat-square&logo=python&logoColor=00FF88) ![Pytest](https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest&logoColor=0A9EDC) |
-| **🚀 DevOps & CI/CD** | ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=flat-square&logo=linux&logoColor=FCC624) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF) ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=ffffff) |
-| **🤖 Automation & AI** | ![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=EA4B71) ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=ffffff) ![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=google&logoColor=4285F4) ![Google APIs](https://img.shields.io/badge/Google_APIs-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4) |
+<table width="100%">
+<tr><td align="center" bgcolor="#0D1117">🧠 <b>CORE RUNTIME</b></td><td>
+<img src="https://img.shields.io/badge/Python-8338EC?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-3A86FF?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-FF006E?style=flat-square&logo=cplusplus&logoColor=white"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">🚰 <b>DATA / PIPELINES</b></td><td>
+<img src="https://img.shields.io/badge/Airflow-FF006E?style=flat-square&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-39FF14?style=flat-square&logo=postgresql&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Docker-3A86FF?style=flat-square&logo=docker&logoColor=white"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">🔌 <b>SERVICE LAYER</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-FB5607?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-FFBE0B?style=flat-square&logo=postman&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/SMTP-8338EC?style=flat-square&logo=mailgun&logoColor=white"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">🗄️ <b>STORAGE ENGINES</b></td><td>
+<img src="https://img.shields.io/badge/MySQL-3A86FF?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFBE0B?style=flat-square&logo=firebase&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Supabase-39FF14?style=flat-square&logo=supabase&logoColor=1a1a1a"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">☁️ <b>CLOUD / FINOPS</b></td><td>
+<img src="https://img.shields.io/badge/AWS-FB5607?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-8338EC?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/EBS-3A86FF?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Boto3-FF006E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typer-FFBE0B?style=flat-square&logo=python&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Pytest-3A86FF?style=flat-square&logo=pytest&logoColor=white"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">🚀 <b>PLATFORM / DEVOPS</b></td><td>
+<img src="https://img.shields.io/badge/Linux_CLI-39FF14?style=flat-square&logo=linux&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-8338EC?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white"/>
+</td></tr>
+<tr><td align="center" bgcolor="#0D1117">🤖 <b>AI / AUTOMATION</b></td><td>
+<img src="https://img.shields.io/badge/n8n-FF006E?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-3A86FF?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-FFBE0B?style=flat-square&logo=google&logoColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Google_APIs-8338EC?style=flat-square&logo=googlecloud&logoColor=white"/>
+</td></tr>
+</table>
 
 </div>
 
@@ -154,77 +143,68 @@ Document Processing Layers
 
 ---
 
-<br>
-
-<div align="center">
-
-### ⬇️ *NEXT EPISODE: Six real systems. Two are live right now. This is the main show.* ⬇️
-
-</div>
-
 <a name="episodes"></a>
 
-## 📺 `EPISODE 03` &nbsp; The Episodes (Systems I've Built)
+## 🪣 `$ aws s3 ls s3://harshil-projects/` — Distributed Storage
 
-*Click an episode to expand it. No laugh track, just architecture.*
+*Each project is a shard, replicated across a repo. Usage bar = build progress, not disk.*
 
 <br>
 
 <details open>
-<summary><b>&nbsp;🎬 EP.01 · "The Great Warehouse Heist" &nbsp;—&nbsp; Enterprise Data Warehouse Sync (Production ETL) &nbsp;<code>[🟢 active]</code></b></summary>
+<summary><b>🪣 <code>bucket: enterprise-data-warehouse-sync</code></b> &nbsp;<img src="https://img.shields.io/badge/status-ACTIVE-39FF14?style=flat-square&logoColor=1a1a1a"/></summary>
 <br>
 
-[![Repository](https://img.shields.io/badge/Repo-enterprise--data--warehouse--sync-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshil6-lab/enterprise-data-warehouse-sync)
+[![Repository](https://img.shields.io/badge/Repo-enterprise--data--warehouse--sync-8338EC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshil6-lab/enterprise-data-warehouse-sync)
 
-**The plot:** Stripe and Salesforce data keeps sneaking around in different formats. Harshil herds it all into one PostgreSQL warehouse, on schedule, with real production auth.
+**Object:** Stripe and Salesforce data lands in raw JSON, gets transformed, and syncs into one PostgreSQL warehouse behind a real production auth layer.
 
 ```
 ┌─────────────┐          ┌───────────────────────┐
 │  Stripe API │          │  Salesforce (JWT/SSO) │
 └──────┬──────┘          └───────────┬───────────┘
        └──────────────┬──────────────┘
-                      ▼
-           ┌─────────────────────┐
-           │   Extraction Layer  │
-           │   Raw JSON Data Lake│
-           └──────────┬──────────┘
-                      ▼
-           ┌─────────────────────┐
-           │  Dockerized Backend │
-           │  mTLS Cert Auth     │
-           └────┬───────────┬────┘
-                ▼           ▼
-      ┌──────────────┐  ┌───────────────────┐
-      │ Transform    │  │ PostgreSQL        │
-      │ Engine       │  │ Warehouse         │
-      └──────┬───────┘  └────────┬──────────┘
-             └──────────┬────────┘
+                       ▼
+            ┌─────────────────────┐
+            │   Extraction Layer  │
+            │   Raw JSON Data Lake│
+            └──────────┬──────────┘
                         ▼
-             ┌──────────────────────┐
-             │  Apache Airflow DAGs │
-             │  Scheduled Pipelines │
-             └──────────────────────┘
+            ┌─────────────────────┐
+            │  Dockerized Backend │
+            │  mTLS Cert Auth     │
+            └────┬───────────┬────┘
+                 ▼           ▼
+       ┌──────────────┐  ┌───────────────────┐
+       │ Transform    │  │ PostgreSQL        │
+       │ Engine       │  │ Warehouse         │
+       └──────┬───────┘  └────────┬──────────┘
+              └──────────┬────────┘
+                         ▼
+              ┌──────────────────────┐
+              │  Apache Airflow DAGs │
+              │  Scheduled Pipelines │
+              └──────────────────────┘
 ```
 
 | | |
 |:--|:--|
-| 🧰 **Stack** | Python · Apache Airflow 3.x · Docker · PostgreSQL · Stripe API · Salesforce OAuth · AWS S3 · GitHub Actions CI/CD |
-| 🧩 **Pattern** | Multi-Source ETL · Data Lake → Warehouse · Production Auth · Scheduled Orchestration |
-| 🪳 **Roaches squashed** | Five-service Airflow 3.x deployment (webserver, scheduler, triggerer, DAG processor, API server) debugged end-to-end, including asyncpg dependency resolution and execution-API-server configuration |
-| 📈 **Progress** | `▓▓▓▓▓▓▓░░░` **70%** *(lookup in the kitchen, still cooking)* |
+| 🧰 Stack | Python · Apache Airflow 3.x · Docker · PostgreSQL · Stripe API · Salesforce OAuth · AWS S3 · GitHub Actions CI/CD |
+| 🧩 Pattern | Multi-Source ETL · Data Lake → Warehouse · Production Auth · Scheduled Orchestration |
+| 🔧 Debugged | Five-service Airflow 3.x deployment (webserver, scheduler, triggerer, DAG processor, API server), asyncpg dependency resolution, execution-API-server config |
+| 📦 Shard usage | `▓▓▓▓▓▓▓░░░` **70%** |
 
-<br>
 </details>
 
----
-
-<details open>
-<summary><b>&nbsp;🎬 EP.02 · "Attack of the Zombie Servers" &nbsp;—&nbsp; Cloud Infrastructure Auditor (a.k.a. CLAICO) &nbsp;<code>[🟢 active]</code></b></summary>
 <br>
 
-[![Repository](https://img.shields.io/badge/Repo-cloud--infra--auditor-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshil6-lab/cloud-infra-auditor)
+<details open>
+<summary><b>🪣 <code>bucket: cloud-infra-auditor</code></b> <i>(aka CLAICO)</i> &nbsp;<img src="https://img.shields.io/badge/status-ACTIVE-FB5607?style=flat-square"/></summary>
+<br>
 
-**The plot:** Unattached volumes and forgotten IPs are the cockroaches of your AWS bill: they hide in the dark and eat your money. This CLI turns on the lights, scans every region, and only cleans up after a dry run and a confirmation.
+[![Repository](https://img.shields.io/badge/Repo-cloud--infra--auditor-3A86FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshil6-lab/cloud-infra-auditor)
+
+**Object:** Unattached EBS volumes and idle Elastic IPs quietly eat your AWS bill. This CLI scans every region, reports everything, and only cleans up after a dry run and a confirmation.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -235,52 +215,49 @@ Document Processing Layers
 │  └──────┬───────┘  └──────┬───────┘  └────────────┬─────────────┘  │
 └─────────┼─────────────────┼───────────────────────┼────────────────┘
           └─────────────────┼───────────────────────┘
-                            ▼
-               ┌────────────────────────┐
-               │    Audit Engine        │
-               │    Multi-Region Scan   │
-               │    Boto3 · Python 3.11 │
-               └──────────┬─────────────┘
-                          │
-          ┌───────────────┼──────────────────┐
-          ▼               ▼                  ▼
- ┌──────────────┐  ┌────────────┐  ┌─────────────────┐
- │  Rich TUI    │  │  JSON/CSV  │  │  Safe Cleanup   │
- │  Terminal    │  │  Reports   │  │  Dry-Run Mode   │
- │  Dashboard   │  │  Export    │  │  Confirm Before │
- └──────────────┘  └────────────┘  │  Execution      │
-                                   └─────────────────┘
+                             ▼
+                ┌────────────────────────┐
+                │    Audit Engine        │
+                │    Multi-Region Scan   │
+                │    Boto3 · Python 3.11 │
+                └──────────┬─────────────┘
+                            │
+          ┌─────────────────┼───────────────────┐
+          ▼                 ▼                    ▼
+ ┌──────────────┐  ┌────────────┐  ┌──────────────────┐
+ │  Rich TUI    │  │  JSON/CSV  │  │  Safe Cleanup    │
+ │  Dashboard   │  │  Reports   │  │  Dry-Run + Confirm│
+ └──────────────┘  └────────────┘  └──────────────────┘
 ```
 
 | | |
 |:--|:--|
-| 🧰 **Stack** | Python 3.11 · Typer · Rich · Boto3 · Pytest · Moto |
-| 🧩 **Pattern** | CLI Tooling · FinOps Automation · Safe Execution Workflow |
-| 🔍 **Scope** | EC2 utilization scanning (CloudWatch metrics) · EBS unattached-volume detection · Elastic IP waste detection · Multi-region sweep |
-| 👥 **Team** | Harshil Kalsariya · Rifaz G · Sravya M · Prakash Bhanu |
-| 🗓️ **Timeline** | W1 CLI Auth → W2 Scanners → W3 Reports → W4 Packaging |
-| 📈 **Progress** | `▓▓▓▓▓▓▓░░░` **65%** |
+| 🧰 Stack | Python 3.11 · Typer · Rich · Boto3 · Pytest · Moto |
+| 🧩 Pattern | CLI Tooling · FinOps Automation · Safe Execution Workflow |
+| 🔍 Scope | EC2 utilization (CloudWatch) · EBS unattached-volume detection · Elastic IP waste detection · Multi-region sweep |
+| 👥 Team | Harshil Kalsariya · Rifaz G · Sravya M · Prakash Bhanu |
+| 🗓️ Timeline | W1 CLI Auth → W2 Scanners → W3 Reports → W4 Packaging |
+| 📦 Shard usage | `▓▓▓▓▓▓▓░░░` **65%** |
 
-<br>
 </details>
 
----
-
-<details>
-<summary><b>&nbsp;🎬 EP.03 · "The Certificate Factory" &nbsp;—&nbsp; CertifyPro: Bulk Certificate Generation & Verification API</b></summary>
 <br>
 
-[![Repository](https://img.shields.io/badge/Repo-certifypro-FF8C00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshil6-lab/certifypro)
+<details>
+<summary><b>🪣 <code>bucket: certifypro</code></b> — Bulk Certificate Generation & Verification API</summary>
+<br>
 
-**The plot:** Feed it an Excel sheet, get hundreds of certificates back, each one verifiable with a single API call.
+[![Repository](https://img.shields.io/badge/Repo-certifypro-FFBE0B?style=for-the-badge&logo=github&logoColor=1a1a1a)](https://github.com/harshil6-lab/certifypro)
+
+**Object:** Feed it an Excel sheet, get hundreds of certificates back, each one verifiable with a single API call.
 
 ```
 ┌─────────────┐     ┌──────────────────────┐     ┌─────────────────┐
 │  Excel File │────▶│   Template Engine    │────▶│  Bulk Certs     │
-│  (rows)     │     │  Field Injection      │     │  (PDF / PNG)    │
-└─────────────┘     │  Multi-Org Config     │     └────────┬────────┘
+│  (rows)     │     │  Field Injection     │     │  (PDF / PNG)    │
+└─────────────┘     │  Multi-Org Config    │     └────────┬────────┘
                     └──────────────────────┘              │
-                                                          ▼
+                                                           ▼
                                                ┌─────────────────────┐
                                                │  Verification API   │
                                                │  GET /verify/{id}   │
@@ -290,16 +267,15 @@ Document Processing Layers
 
 **Stack:** Python · FastAPI · Excel Automation &nbsp;|&nbsp; **Pattern:** Batch Processing · REST Verification Endpoint
 
-<br>
 </details>
 
----
-
-<details>
-<summary><b>&nbsp;🎬 EP.04 · "Who Gets the Job?" &nbsp;—&nbsp; AI Resume Screening Pipeline</b></summary>
 <br>
 
-**The plot:** Resumes go in, an LLM reads them, rules rank them, and n8n emails the shortlist or the rejection. No cockroach reads a single CV by hand.
+<details>
+<summary><b>🪣 <code>bucket: ai-resume-screening-pipeline</code></b></summary>
+<br>
+
+**Object:** Resumes go in, an LLM reads them, rules rank them, n8n emails the shortlist or the rejection.
 
 ```
 ┌──────────┐   ┌──────────────────┐   ┌─────────────────────┐   ┌──────────────┐
@@ -307,63 +283,58 @@ Document Processing Layers
 │  Upload  │   │  Skill Map       │   │  Score × Weight     │   │ SMTP Notify  │
 └──────────┘   │  OpenAI · Gemini │   │  Role Match Filter  │   │  Shortlist / │
                └──────────────────┘   └─────────────────────┘   │  Rejection   │
-                                                                  └──────────────┘
+                                                                 └──────────────┘
 ```
 
 **Stack:** Python · n8n · OpenAI · Gemini · SMTP &nbsp;|&nbsp; **Pattern:** Multi-Stage Orchestration · LLM-in-the-loop · Event Dispatch
 
-<br>
 </details>
 
----
-
-<details>
-<summary><b>&nbsp;🎬 EP.05 · "The Inbox Sorting Hat" &nbsp;—&nbsp; Gmail Routing System (LLM-Classified Inbox Automation)</b></summary>
 <br>
 
-**The plot:** Every email gets classified by Gemini and routed to the right place before you even open your inbox.
+<details>
+<summary><b>🪣 <code>bucket: gmail-routing-system</code></b></summary>
+<br>
+
+**Object:** Every email gets classified by Gemini and routed to the right place before you open your inbox.
 
 ```
 ┌────────────────┐     ┌────────────────────────────────────┐
 │  Gmail Trigger │────▶│  Multi-Stage Classifier (Gemini)   │
 └────────────────┘     └─────────────────┬──────────────────┘
-                                         │
-              ┌──────────────────────────┼──────────────────────────┐
-              ▼                          ▼                           ▼
+                                          │
+              ┌───────────────────────────┼──────────────────────────┐
+              ▼                           ▼                          ▼
      ┌────────────────┐      ┌───────────────────┐      ┌─────────────────┐
      │ label:support  │      │  label:billing    │      │  label:spam     │
      │ Auto-Reply     │      │  Escalation Queue │      │  Archive        │
-     │ Template       │      │                   │      │  & Discard      │
      └────────────────┘      └───────────────────┘      └─────────────────┘
-                                       │
-                              ┌────────▼────────┐
-                              │  n8n Execution  │
-                              │  Trigger Layer  │
-                              └─────────────────┘
+                                        │
+                               ┌────────▼────────┐
+                               │  n8n Execution  │
+                               └─────────────────┘
 ```
 
 **Stack:** n8n · Gemini API · Google Workspace APIs &nbsp;|&nbsp; **Pattern:** Event-Driven · LLM Routing · Trigger Orchestration
 
-<br>
 </details>
 
----
-
-<details>
-<summary><b>&nbsp;🎬 EP.06 · "Invoice Chaos" &nbsp;—&nbsp; Invoice OCR Pipeline (Layout-Adaptive Document Extraction)</b></summary>
 <br>
 
-**The plot:** Tabular, free-form, scanned. Every invoice looks different, and the pipeline adapts to all of them and lands clean rows in Google Sheets.
+<details>
+<summary><b>🪣 <code>bucket: invoice-ocr-pipeline</code></b></summary>
+<br>
+
+**Object:** Tabular, free-form, scanned — every invoice looks different, and the pipeline adapts, landing clean rows in Google Sheets.
 
 ```
 ┌──────────────────┐     ┌───────────────────────────┐     ┌───────────────────┐
 │  Invoice Input   │────▶│  Layout-Adaptive Engine   │────▶│  Structured Parse │
 │  PDF / Image     │     │  tabular · free · scanned │     │  vendor · date    │
 └──────────────────┘     └───────────────────────────┘     │  items · total    │
-                                                            │  tax              │
-                                                            └────────┬──────────┘
-                                                                     │
-                                                                     ▼
+                                                             │  tax              │
+                                                             └────────┬──────────┘
+                                                                      ▼
                                                         ┌────────────────────────┐
                                                         │  Google Sheets API     │
                                                         │  append · format · ack │
@@ -372,38 +343,86 @@ Document Processing Layers
 
 **Stack:** Python · OCR · Google Sheets API &nbsp;|&nbsp; **Pattern:** Document Intelligence · Structured Extraction · API Delivery
 
-<br>
 </details>
 
 <br>
 
 ---
 
-<br>
+<a name="games"></a>
+
+## 🕹️ `/dev/games` — Arcade Mode (Yes, Really)
+
+*Contributions turned into gameplay. Both of these run live off my GitHub activity.*
 
 <div align="center">
 
-### ⬇️ *NEXT EPISODE: The scoreboard. Receipts, streaks and commits.* ⬇️
+**🐍 Contribution Snake** — the graph eats itself, one commit at a time
+<img src="https://raw.githubusercontent.com/harshil6-lab/harshil6-lab/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br><br>
+
+**🏆 Achievements Unlocked**
+<img src="https://github-profile-trophy.vercel.app/?username=harshil6-lab&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Stars,PullRequest,Repositories"/>
 
 </div>
 
+<details>
+<summary>⚙️ how the snake stays alive (workflow file)</summary>
+
+```yaml
+# .github/workflows/snake.yml — put this in the harshil6-lab/harshil6-lab repo
+name: generate snake game
+on:
+  schedule:
+    - cron: "0 0 * * *"      # runs daily at midnight
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: harshil6-lab
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Once this workflow has run once, the snake SVG above renders live from the `output` branch — no manual updates, ever.
+</details>
+
+<br>
+
+---
+
 <a name="scoreboard"></a>
 
-## 📊 `EPISODE 04` &nbsp; The Scoreboard (GitHub Analytics)
+## 📊 `$ htop` — Live Metrics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=00C2FF&text_color=8B949E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=39FF14&text_color=e0e0e0"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=8B949E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=e0e0e0"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C00&fire=00C2FF&currStreakLabel=FF8C00&sideLabels=8B949E&dates=555555"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshil6-lab&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=FF006E&currStreakLabel=FF006E&sideLabels=e0e0e0&dates=8338EC"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshil6-lab&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF8C00&line=00C2FF&point=FFFFFF&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshil6-lab&theme=github-compact&hide_border=true&bg_color=0D1117&color=39FF14&line=FF006E&point=ffffff&area=true"/>
 
 </div>
 
@@ -411,25 +430,17 @@ Document Processing Layers
 
 ---
 
-<br>
-
-<div align="center">
-
-### ⬇️ *SEASON FINALE: Someone is ringing the doorbell. It might be you.* ⬇️
-
-</div>
-
 <a name="contact"></a>
 
-## 📞 `EPISODE 05` &nbsp; Ring the Doorbell (Contact)
+## 📡 `$ nc harshil.dev 443` — Open a Connection
 
 <div align="center">
 
-> 🐱 *"Meow?"* &nbsp;·&nbsp; 🪳 *"Hire him before we do."*
+> `[tcp] SYN received from recruiter... sending SYN-ACK`
 
 <br>
 
-<a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20MY%20RESUME-FF8C00?style=for-the-badge&labelColor=1E90FF&label=FINAL%20BOSS" height="50"/></a>
+<a href="https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20./download_resume.sh-FF006E?style=for-the-badge&labelColor=0D1117&label=%24" height="50"/></a>
 
 <br><br>
 
@@ -437,28 +448,24 @@ Document Processing Layers
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshil--kalsariya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshil-kalsariya-629651318)
 &nbsp;
-![Location](https://img.shields.io/badge/Surat%2C%20Gujarat%2C%20India-FF8C00?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Surat%2C%20Gujarat%2C%20India-39FF14?style=for-the-badge&logoColor=1a1a1a&logo=googlemaps)
 
 <br>
 
-*No cats or cockroaches were harmed in the making of this pipeline. Some bugs were.* 🪳💥
+*`[tcp] connection ESTABLISHED — handshake complete, opportunity.exe forked`*
 
 <br>
 
-### 🎞️ POST-CREDITS SCENE
-*You scrolled all the way down. Respect. Oggy approves.* 🐱👏
-**Now hit the button, grab the resume, and send an email.**
-
-[⬇️ Resume](https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7) · [📧 Email](mailto:harshilkalsariya28@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/harshil-kalsariya-629651318) · [⬆️ Back to top](#flash)
+[⬇️ Resume](https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7) · [📧 Email](mailto:harshilkalsariya28@gmail.com) · [💼 LinkedIn](https://linkedin.com/in/harshil-kalsariya-629651318) · [⬆️ Back to top](#boot)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=%F0%9F%AA%B3%20ROACHES%20WATCHING&color=1E90FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshil6-lab&label=%F0%9F%93%A1%20REQUESTS%20SERVED&color=8338EC&style=for-the-badge"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00C2FF,100:FF8C00&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:FF006E,55:8338EC,80:3A86FF,100:39FF14&height=100&section=footer"/>
 </div>
