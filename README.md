@@ -27,7 +27,7 @@
 <br><br>
 
 **🧭 `$ ls -la /profile`**
-[💻 boot](#boot) · [🌐 cluster](#cluster) · [⚙️ nodes](#toolbox) · [🪣 buckets](#episodes) · [🕹️ /dev/games](#games) · [📊 metrics](#scoreboard) · [📡 uplink](#contact)
+[💻 boot](#boot) · [🌐 cluster](#cluster) · [⚙️ nodes](#toolbox) · [🪣 buckets](#episodes) · [🕹️ /dev/games](#games) · [🎖️ achievements](#achievements) · [📊 metrics](#scoreboard) · [📡 uplink](#contact)
 
 </div>
 
@@ -363,46 +363,67 @@
 <br><br>
 
 **🏆 Achievements Unlocked**
-<img src="https://github-profile-trophy.vercel.app/?username=harshil6-lab" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=harshil6-lab&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4&title=Commits,Stars,PullRequest,Repositories"/>
 
 <br><br>
 
+**🃏 `man fortune` — a random dev joke, refreshes on its own**
+<img src="https://readme-jokes.vercel.app/api?theme=synthwave" alt="Jokes Card"/>
+
 </div>
 
-<details>
-<summary>⚙️ how the snake stays alive (workflow file)</summary>
+<br>
 
-```yaml
-# .github/workflows/snake.yml — put this in the harshil6-lab/harshil6-lab repo
-name: generate snake game
-on:
-  schedule:
-    - cron: "0 0 * * *"      # runs daily at midnight
-  workflow_dispatch: {}
+---
 
-permissions:
-  contents: write
+<a name="achievements"></a>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: harshil6-lab
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+## 🎖️ `~/.save/achievements.log` — Unlocked This Run
 
-Once this workflow has run once, the snake SVG above renders live from the `output` branch — no manual updates, ever.
-</details>
+*Open source has its own leaderboard too. These are real, earned via* [**GirlScript Summer of Code 2026**](https://gssoc.girlscript.org/) *— not decorative badges.*
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="25%" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-first_steps.png" width="130"/><br>
+<sub><code>$ git commit -m "first PR merged"</code></sub>
+</td>
+<td align="center" width="25%" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-role_contributor.png" width="130"/><br>
+<sub><code>role=CONTRIBUTOR, status=merged</code></sub>
+</td>
+<td align="center" width="25%" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-point_scorer.png" width="130"/><br>
+<sub><code>xp += points_per_pr</code></sub>
+</td>
+<td align="center" width="25%" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-bounty_hunter.png" width="130"/><br>
+<sub><code>$ git log --grep="fix:" | wc -l</code></sub>
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-rising_star.png" width="130"/><br>
+<sub><code>trending: harshil6-lab ↑</code></sub>
+</td>
+<td align="center" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-profile_complete.png" width="130"/><br>
+<sub><code>profile.uptime = 100%</code></sub>
+</td>
+<td align="center" bgcolor="#0D1117">
+<img src="assets/badges/gssoc-badge-discord_verified.png" width="130"/><br>
+<sub><code>handshake: #verified ✓</code></sub>
+</td>
+<td align="center" bgcolor="#0D1117">
+<sub>🔒 <b>next unlock</b></sub><br><br>
+<sub><code>TBD — still grinding</code></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
