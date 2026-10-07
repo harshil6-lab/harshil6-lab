@@ -12,11 +12,15 @@
 ## now
 
 ```yaml
+focus:
+  - distributed systems
+  - data engineering
+  - backend engineering
 building:
   - Enterprise Data Warehouse Sync   # Stripe + Salesforce -> PostgreSQL, orchestrated by Airflow 3
   - CLAICO                           # AWS cost auditing CLI
 based:    Surat, Gujarat, India
-looking:  backend / data engineering roles
+looking:  distributed systems / data / backend roles
 resume:   see link in contact
 ```
 
@@ -65,11 +69,11 @@ Unattached EBS volumes and idle Elastic IPs quietly inflate AWS bills. This CLI 
 </div>
 
 ```text
-languages    python · c · c++
-data         airflow · postgresql · mysql · supabase · firebase
-services     fastapi · rest · smtp
-cloud        aws (ec2, ebs, s3) · boto3 · docker · github actions · vercel
-automation   n8n · openai · gemini · google apis
+distributed   multi-service orchestration · scheduled pipelines · mTLS service auth · containerized deployments
+data          airflow · postgresql · mysql · supabase · firebase · s3 data lake
+backend       python · fastapi · rest · c · c++ · smtp
+infra         aws (ec2, ebs, s3) · boto3 · docker · linux · github actions · vercel
+automation    n8n · openai · gemini · google apis
 ```
 
 <br>
