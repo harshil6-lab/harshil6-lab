@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/header.svg" alt="Harshil Kalsariya — Backend, data pipelines, cloud cost" width="100%"/>
-
+  
 <br>
 
 [**now**](#now) · [**work**](#work) · [**stack**](#stack) · [**open source**](#open-source) · [**contact**](#contact)
