@@ -1,115 +1,244 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24" width="100%" alt=""/>
+
 <div align="center">
-<img src="assets/header.svg" alt="Harshil Kalsariya — Backend, data pipelines, cloud cost" width="100%"/>
-  
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║                      █   █  ███  ████   ████ █   █ █████ █                           ║
+║                      █   █ █   █ █   █ █     █   █   █   █                           ║
+║                      █████ █████ ████   ███  █████   █   █                           ║
+║                      █   █ █   █ █  █      █ █   █   █   █                           ║
+║                      █   █ █   █ █   █ ████  █   █ █████ █████                       ║
+║                                                                                      ║
+║                █   █  ███  █      ████  ███  ████  █████ █   █  ███                  ║
+║                █  █  █   █ █     █     █   █ █   █   █    █ █  █   █                 ║
+║                ███   █████ █      ███  █████ ████    █     █   █████                 ║
+║                █  █  █   █ █         █ █   █ █  █    █     █   █   █                 ║
+║                █   █ █   █ █████ ████  █   █ █   █ █████   █   █   █                 ║
+║                                                                                      ║
+║                        backend · data pipelines · cloud cost                         ║
+║                                                                                      ║
+║                    Computer Engineering @ CHARUSAT · Surat, India                    ║
+║                                                                                      ║
+║                  $ open to SDE / backend / data internships (2027)                   ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=620&height=30&lines=I+find+slow%2C+duplicated+and+wasted+things.;Then+I+measure+it%2C+fix+it%2C+and+write+the+test." alt="typing subtitle"/>
+
 <br>
 
-[**now**](#now) · [**work**](#work) · [**stack**](#stack) · [**open source**](#open-source) · [**contact**](#contact)
+[`~/experience`](#experience) · [`~/projects`](#projects) · [`~/stack`](#stack) · [`~/oss`](#open-source) · [`~/contact`](#contact)
 
 </div>
 
 <br>
 
-## now
+```console
+harshil@charusat:~$ neofetch
 
-```yaml
-focus:
-  - distributed systems
-  - data engineering
-  - backend engineering
-building:
-  - Enterprise Data Warehouse Sync   # Stripe + Salesforce -> PostgreSQL, orchestrated by Airflow 3
-  - CLAICO                           # AWS cost auditing CLI
-based:    Surat, Gujarat, India
-looking:  distributed systems / data / backend roles
-resume:   see link in contact
+  harshil@kalsariya
+  ─────────────────────────────────────────────
+  role      backend · data pipelines · cloud cost
+  school    B.Tech Computer Engineering @ CHARUSAT (2028)
+  cgpa      8.26 / 10
+  based     Surat, Gujarat, India
+  focus     distributed systems · ETL · AWS cost optimization
+  editor    vim, when no one is watching
+  status    ● open to SDE / backend / data internships (2027)
 ```
 
 <br>
 
-## work
+## experience
 
-### Enterprise Data Warehouse Sync
-Stripe and Salesforce data lands as raw JSON, gets transformed, and syncs into a single PostgreSQL warehouse behind a production auth layer (Salesforce JWT, mTLS between services).
+```console
+harshil@charusat:~$ git log --oneline --graph
+
+* 7c1e9a4 (HEAD -> main) now: Airflow 3, distributed systems, more C++
+* 3b8d2f0 2026  GSSoC: rank #2,174 / 47,924 (top 5%), 4 merged PRs, 3 repos
+* a91c5e7 2026  published cloud-infra-auditor to PyPI
+* e402b6d 2026  shipped CertifyPro (live, full-stack)
+* 5d7f3c1 Apr-Jun 2026  Zaalima Development: Python Developer Intern & Team Lead
+|          led a team of 4 · concurrent AWS auditing across 17+ regions
+|          Stripe + Salesforce -> PostgreSQL ETL, 3-stage validation, idempotent loads
+* 0000001 init: Computer Engineering @ CHARUSAT
+```
+
+<br>
+
+## projects
+
+```console
+harshil@charusat:~$ ls -l projects/
+```
+
+<details>
+<summary><code>drwxr-xr-x</code> <b>enterprise-data-warehouse-sync/</b> · Stripe + Salesforce -> PostgreSQL</summary>
+
+<br>
 
 <div align="center"><img src="assets/pipeline.svg" alt="Data flow: Stripe and Salesforce to S3 lake, transform, PostgreSQL, orchestrated by Airflow" width="100%"/></div>
 
-`Python` `Airflow 3.x` `Docker` `PostgreSQL` `AWS S3` `GitHub Actions`
-&nbsp;·&nbsp; Debugged a five-service Airflow 3 deployment (API server, scheduler, triggerer, DAG processor, webserver) and asyncpg dependency conflicts.
-&nbsp;·&nbsp; [**repo →**](https://github.com/harshil6-lab/enterprise-data-warehouse-sync)
+```text
+stripe ──┐
+         ├─> raw JSON ─> S3 ─> validate ─> transform ─> validate ─> PostgreSQL
+salesforce ┘                                                │
+                    Airflow 3 (daily DAGs, retries) ────────┘
+                    Slack alert on failure
+```
+
+```yaml
+stack:   [Python, Airflow 3.x, Docker, PostgreSQL, AWS S3, GitHub Actions]
+auth:    Salesforce JWT + mTLS between services
+gates:   [source models, after conversion, before load]
+result:  0 duplicates across 3 repeated runs (5,000 SF + 500 Stripe records)
+tests:   7 pytest
+```
+
+Debugged a five-service Airflow 3 deployment (API server, scheduler, triggerer, DAG processor, webserver) and asyncpg dependency conflicts.
+
+[**-> repo**](https://github.com/harshil6-lab/enterprise-data-warehouse-sync)
+
+</details>
+
+<details>
+<summary><code>drwxr-xr-x</code> <b>cloud-infra-auditor/</b> · AWS waste scanner CLI (CLAICO)</summary>
 
 <br>
-
-### CLAICO — cloud-infra-auditor
-Unattached EBS volumes and idle Elastic IPs quietly inflate AWS bills. This CLI sweeps every region, reports what it finds, and only cleans up after a dry run and an explicit confirmation.
 
 <div align="center"><img src="assets/finops.svg" alt="CLAICO scanning cloud resources and flagging waste" width="100%"/></div>
 
-`Python 3.11` `Typer` `Rich` `Boto3` `Pytest` `Moto`
-&nbsp;·&nbsp; Covers EC2 utilization (CloudWatch), unattached EBS, unassociated Elastic IPs, JSON/CSV reports and a Rich terminal dashboard.
-&nbsp;·&nbsp; Team project with Rifaz G, Sravya M, Prakash Bhanu.
-&nbsp;·&nbsp; [**repo →**](https://github.com/harshil6-lab/cloud-infra-auditor)
+```bash
+pip install cloud-infra-auditor
+```
+
+```console
+$ claico scan --all-regions
+  scanning 17+ regions ............ done
+  idle EC2 instances (CloudWatch) .. found
+  unattached EBS volumes ........... found
+  unassociated Elastic IPs ......... found
+  cleanup runs only after: dry-run -> explicit confirmation
+```
+
+```diff
+- before   sequential scan       60-65s
++ after    ThreadPoolExecutor     8-10s     (~85% faster)
++ tests    90%+ coverage
+```
+
+```yaml
+stack:  [Python 3.11, Typer, Rich, Boto3, Pytest, Moto, Docker]
+output: [JSON, CSV, Rich terminal dashboard]
+team:   [Rifaz G, Sravya M, Prakash Bhanu]
+```
+
+[**-> repo**](https://github.com/harshil6-lab/cloud-infra-auditor)
+
+</details>
+
+<details>
+<summary><code>drwxr-xr-x</code> <b>certifypro/</b> · bulk certificate issuing + verification</summary>
 
 <br>
 
-### Also shipped
+```text
+Excel/CSV ─> FastAPI ─> Supabase ─> hundreds of certificates
+                                      └─> QR code / GET /verify/{id}
+```
 
-| project | what it does | stack |
-|:--|:--|:--|
-| [**certifypro**](https://github.com/harshil6-lab/certifypro) | Excel sheet in, hundreds of certificates out, each verifiable via `GET /verify/{id}` | Python · FastAPI |
-| **ai-resume-screening** | LLM extracts skills, rules rank candidates, n8n emails shortlist or rejection | n8n · OpenAI · Gemini · SMTP |
-| **gmail-routing** | Gemini classifies each email and routes it (support, billing, spam) before you open your inbox | n8n · Gemini · Google APIs |
-| **invoice-ocr** | Handles tabular, free-form and scanned invoices, appends clean rows to Google Sheets | Python · OCR · Sheets API |
+```yaml
+stack: [React, TypeScript, FastAPI, Supabase, Tailwind]
+```
+
+[**-> repo**](https://github.com/harshil6-lab/certifypro)
+
+</details>
+
+<details>
+<summary><code>drwxr-xr-x</code> <b>automations/</b> · n8n, LLMs, OCR</summary>
+
+<br>
+
+```text
+ai-resume-screening   LLM extracts skills -> rules rank -> n8n emails result
+                      [n8n, OpenAI, Gemini, SMTP]
+
+gmail-routing         Gemini classifies email -> support | billing | spam
+                      [n8n, Gemini, Google APIs]
+
+invoice-ocr           tabular, free-form, scanned invoices -> Google Sheets rows
+                      [Python, OCR, Sheets API]
+```
+
+</details>
 
 <br>
 
 ## stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,postgres,mysql,docker,aws,linux,fastapi,firebase,supabase,githubactions,vercel,pytest&theme=dark&perline=14" alt="Tech stack icons"/>
-</div>
+```console
+harshil@charusat:~$ tree stack/
+```
 
 ```text
-distributed   multi-service orchestration · scheduled pipelines · mTLS service auth · containerized deployments
-data          airflow · postgresql · mysql · supabase · firebase · s3 data lake
-backend       python · fastapi · rest · c · c++ · smtp
-infra         aws (ec2, ebs, s3) · boto3 · docker · linux · github actions · vercel
-automation    n8n · openai · gemini · google apis
+stack/
+├── languages/     C · C++ · Python · Java · SQL · Bash · TypeScript
+├── backend/       FastAPI · REST · SQLAlchemy · React
+├── data/          Airflow · PostgreSQL · MySQL · Supabase · S3 · ETL
+├── infra/         AWS (EC2, S3, EBS, VPC, IAM, CloudWatch) · Docker · Linux · GitHub Actions
+├── quality/       Pytest · Moto · unit testing · code review · concurrency
+├── networking/    TCP/IP · UDP · Ethernet · IEEE 802.11 (coursework)
+└── automation/    n8n · OpenAI · Gemini · Google APIs
 ```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts,react,postgres,mysql,docker,aws,linux,fastapi,supabase,githubactions&theme=dark&perline=14" alt="Tech stack icons"/>
+</div>
 
 <br>
 
 ## open source
 
-Earned through **[GirlScript Summer of Code 2026](https://gssoc.girlscript.org/)**.
+```console
+harshil@charusat:~$ cat gssoc2026.log
+```
 
-<p>
-<img src="assets/badges/gssoc-badge-first_steps.png" height="86"/>
-<img src="assets/badges/gssoc-badge-role_contributor.png" height="86"/>
-<img src="assets/badges/gssoc-badge-point_scorer.png" height="86"/>
-<img src="assets/badges/gssoc-badge-bounty_hunter.png" height="86"/>
-<img src="assets/badges/gssoc-badge-rising_star.png" height="86"/>
-<img src="assets/badges/gssoc-badge-profile_complete.png" height="86"/>
-<img src="assets/badges/gssoc-badge-discord_verified.png" height="86"/>
-</p>
-
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshil6-lab&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=FFB454&icon_color=FFB454&text_color=E8E4DA&ring_color=FFB454"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshil6-lab&layout=compact&hide_border=true&bg_color=0A0E14&title_color=FFB454&text_color=E8E4DA"/>
-</div>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshil6-lab/harshil6-lab/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/harshil6-lab/harshil6-lab/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
-</picture>
+```text
+[GSSoC 2026]  rank #2,174 / 47,924   top 5%
+[merged PRs]  4 across 3 repositories
+[leetcode]    150+ solved · 50-day + 100-day streaks
+```
 
 <br>
 
 ## contact
 
+```console
+harshil@charusat:~$ cat contact.json
+```
+
+```json
+{
+  "email":    "harshilkalsariya28@gmail.com",
+  "linkedin": "harshil-kalsariya-629651318",
+  "github":   "harshil6-lab",
+  "leetcode": "harshil6-lab",
+  "status":   "open to internships, say hi"
+}
+```
+
 <div align="center">
 
-[**resume (PDF)**](https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7) &nbsp;·&nbsp; [**email**](mailto:harshilkalsariya28@gmail.com) &nbsp;·&nbsp; [**linkedin**](https://linkedin.com/in/harshil-kalsariya-629651318) &nbsp;·&nbsp; [**back to top**](#)
+[**resume**](https://drive.google.com/uc?export=download&id=13cSdKFxJvpLsCDuLH6LyFy4JJv_vztJ7) &nbsp;·&nbsp; [**email**](mailto:harshilkalsariya28@gmail.com) &nbsp;·&nbsp; [**linkedin**](https://linkedin.com/in/harshil-kalsariya-629651318) &nbsp;·&nbsp; [**leetcode**](https://leetcode.com/u/harshil6-lab)
 
 </div>
+
+```console
+harshil@charusat:~$ _
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24" width="100%" alt=""/>
